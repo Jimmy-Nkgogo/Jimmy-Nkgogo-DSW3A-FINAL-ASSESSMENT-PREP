@@ -205,6 +205,7 @@
             this.checkBoxSpinach.TabIndex = 2;
             this.checkBoxSpinach.Text = "Spinach";
             this.checkBoxSpinach.UseVisualStyleBackColor = true;
+            this.checkBoxSpinach.CheckedChanged += new System.EventHandler(this.checkBoxSpinach_CheckedChanged);
             // 
             // checkBoxShreddedChicken
             // 
@@ -215,6 +216,7 @@
             this.checkBoxShreddedChicken.TabIndex = 5;
             this.checkBoxShreddedChicken.Text = "Shredded Chicken";
             this.checkBoxShreddedChicken.UseVisualStyleBackColor = true;
+            this.checkBoxShreddedChicken.CheckedChanged += new System.EventHandler(this.checkBoxShreddedChicken_CheckedChanged);
             // 
             // checkBoxPineapple
             // 
@@ -225,6 +227,7 @@
             this.checkBoxPineapple.TabIndex = 4;
             this.checkBoxPineapple.Text = "Pineapple";
             this.checkBoxPineapple.UseVisualStyleBackColor = true;
+            this.checkBoxPineapple.CheckedChanged += new System.EventHandler(this.checkBoxPineapple_CheckedChanged);
             // 
             // checkBoxExtraCheese
             // 
@@ -235,6 +238,7 @@
             this.checkBoxExtraCheese.TabIndex = 3;
             this.checkBoxExtraCheese.Text = "Extra Cheese";
             this.checkBoxExtraCheese.UseVisualStyleBackColor = true;
+            this.checkBoxExtraCheese.CheckedChanged += new System.EventHandler(this.checkBoxExtraCheese_CheckedChanged);
             // 
             // checkBoxGroundedBeef
             // 
@@ -245,6 +249,7 @@
             this.checkBoxGroundedBeef.TabIndex = 8;
             this.checkBoxGroundedBeef.Text = "Grounded Beef";
             this.checkBoxGroundedBeef.UseVisualStyleBackColor = true;
+            this.checkBoxGroundedBeef.CheckedChanged += new System.EventHandler(this.checkBoxGroundedBeef_CheckedChanged);
             // 
             // checkBoxDriedShrimp
             // 
@@ -255,6 +260,7 @@
             this.checkBoxDriedShrimp.TabIndex = 7;
             this.checkBoxDriedShrimp.Text = "Dried Shrimp";
             this.checkBoxDriedShrimp.UseVisualStyleBackColor = true;
+            this.checkBoxDriedShrimp.CheckedChanged += new System.EventHandler(this.checkBoxDriedShrimp_CheckedChanged);
             // 
             // checkBoxMushroom
             // 
@@ -265,6 +271,7 @@
             this.checkBoxMushroom.TabIndex = 6;
             this.checkBoxMushroom.Text = "Mushroom";
             this.checkBoxMushroom.UseVisualStyleBackColor = true;
+            this.checkBoxMushroom.CheckedChanged += new System.EventHandler(this.checkBoxMushroom_CheckedChanged);
             // 
             // label2
             // 

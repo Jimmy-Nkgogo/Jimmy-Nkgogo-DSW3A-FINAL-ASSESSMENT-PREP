@@ -119,5 +119,98 @@ namespace Lab1_Question_3
             labelDisplay.Text = total.ToString();
 
         }
+
+        private void checkBoxSpinach_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxSpinach.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+
+        }
+
+        private void checkBoxExtraCheese_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxExtraCheese.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+
+        }
+
+        private void checkBoxPineapple_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxPineapple.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+        }
+
+        private void checkBoxShreddedChicken_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxShreddedChicken.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+        }
+
+        private void checkBoxMushroom_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxMushroom.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+        }
+
+        private void checkBoxDriedShrimp_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxDriedShrimp.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+        }
+
+        private void checkBoxGroundedBeef_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxGroundedBeef.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+        }
     }
 }
