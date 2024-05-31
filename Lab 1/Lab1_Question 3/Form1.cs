@@ -16,5 +16,10 @@ namespace Lab1_Question_3
         {
             InitializeComponent();
         }
+
+        private void radioButtonSmall_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
