@@ -108,6 +108,7 @@
             this.radioButtonMedium.TabStop = true;
             this.radioButtonMedium.Text = "Medium (R35)";
             this.radioButtonMedium.UseVisualStyleBackColor = true;
+            this.radioButtonMedium.CheckedChanged += new System.EventHandler(this.radioButtonMedium_CheckedChanged);
             // 
             // radioButtonLarge
             // 
@@ -119,6 +120,7 @@
             this.radioButtonLarge.TabStop = true;
             this.radioButtonLarge.Text = "Large (R55)";
             this.radioButtonLarge.UseVisualStyleBackColor = true;
+            this.radioButtonLarge.CheckedChanged += new System.EventHandler(this.radioButtonLarge_CheckedChanged);
             // 
             // groupBox2
             // 
@@ -151,6 +153,7 @@
             this.radioButtonThick.TabStop = true;
             this.radioButtonThick.Text = "Thick (R2)";
             this.radioButtonThick.UseVisualStyleBackColor = true;
+            this.radioButtonThick.CheckedChanged += new System.EventHandler(this.radioButtonThick_CheckedChanged);
             // 
             // groupBox3
             // 
@@ -264,7 +267,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(268, 607);
+            this.label2.Location = new System.Drawing.Point(268, 604);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(145, 25);
             this.label2.TabIndex = 5;
@@ -293,6 +296,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
