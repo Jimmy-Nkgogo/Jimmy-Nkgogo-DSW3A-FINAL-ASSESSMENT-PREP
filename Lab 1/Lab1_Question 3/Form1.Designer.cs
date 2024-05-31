@@ -183,6 +183,7 @@
             this.checkBoxPepperoni.TabIndex = 0;
             this.checkBoxPepperoni.Text = "Pepperoni";
             this.checkBoxPepperoni.UseVisualStyleBackColor = true;
+            this.checkBoxPepperoni.CheckedChanged += new System.EventHandler(this.checkBoxPepperoni_CheckedChanged);
             // 
             // checkBoxJalapeno
             // 
@@ -193,6 +194,7 @@
             this.checkBoxJalapeno.TabIndex = 1;
             this.checkBoxJalapeno.Text = "Jalapeno";
             this.checkBoxJalapeno.UseVisualStyleBackColor = true;
+            this.checkBoxJalapeno.CheckedChanged += new System.EventHandler(this.checkBoxJalapeno_CheckedChanged);
             // 
             // checkBoxSpinach
             // 

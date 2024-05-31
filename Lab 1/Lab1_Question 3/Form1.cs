@@ -92,5 +92,32 @@ namespace Lab1_Question_3
             
             labelDisplay.Text = total.ToString();
         }
+
+        private void checkBoxPepperoni_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxPepperoni.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+        }
+
+        private void checkBoxJalapeno_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxJalapeno.Checked)
+            {
+                total += topping;
+            }
+            else
+            {
+                total -= topping;
+            }
+            labelDisplay.Text = total.ToString();
+
+        }
     }
 }
