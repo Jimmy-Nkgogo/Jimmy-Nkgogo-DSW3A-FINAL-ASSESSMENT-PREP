@@ -52,7 +52,11 @@ interest.
             {
                 price = Convert.ToDouble(textBoxPrice.Text);
                 price = price + (price * 0.25);
-                MessageBox.Show(price.ToString());
+                while (price > 15)
+                {
+                    textBoxDisplay.Text += price.ToString() + Environment.NewLine;
+                    price = price - (price * 0.12);
+                }
             }
         }
     }
