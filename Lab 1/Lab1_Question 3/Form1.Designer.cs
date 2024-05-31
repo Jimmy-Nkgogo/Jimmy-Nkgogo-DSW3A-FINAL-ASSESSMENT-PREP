@@ -142,6 +142,7 @@
             this.radioButtonThin.TabStop = true;
             this.radioButtonThin.Text = "Thin (R1)";
             this.radioButtonThin.UseVisualStyleBackColor = true;
+            this.radioButtonThin.CheckedChanged += new System.EventHandler(this.radioButtonThin_CheckedChanged);
             // 
             // radioButtonThick
             // 

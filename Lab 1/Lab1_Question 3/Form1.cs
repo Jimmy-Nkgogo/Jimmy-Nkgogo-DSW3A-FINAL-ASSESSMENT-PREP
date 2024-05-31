@@ -17,16 +17,19 @@ namespace Lab1_Question_3
             InitializeComponent();
         }
         private int total;
-
+        private int small = 20;
+        private int medium = 35;
+        private int large = 55;
+        private int topping = 7;
         private void radioButtonSmall_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButtonSmall.Checked == true)
             {
-                total = 20;
+                total += small;
             }
             else
             {
-                total = 0;
+                total -= small;
             }
             labelDisplay.Text = total.ToString();    
         }
@@ -40,11 +43,11 @@ namespace Lab1_Question_3
         {
             if (radioButtonMedium.Checked)
             {
-                total = 35;
+                total += medium;
             }
             else
             {
-                total = 0;
+                total -= medium;
             }
             labelDisplay.Text = total.ToString();
         }
@@ -53,18 +56,41 @@ namespace Lab1_Question_3
         {
             if (radioButtonLarge.Checked)
             {
-                total = 55;
+                total += large;
             }
             else
             {
-                total = 0;
+                total -= large;
             }
             labelDisplay.Text = total.ToString();
         }
 
         private void radioButtonThick_CheckedChanged(object sender, EventArgs e)
         {
+            if (radioButtonThick.Checked)
+            {
+                total += 2;
+            }
+            else
+            {
+                total -= 2;
+            }
+            
+            labelDisplay.Text = total.ToString();
+        }
 
+        private void radioButtonThin_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButtonThin.Checked)
+            {
+                total += 1;
+            }
+            else
+            {
+                total -= 1;
+            }
+            
+            labelDisplay.Text = total.ToString();
         }
     }
 }
