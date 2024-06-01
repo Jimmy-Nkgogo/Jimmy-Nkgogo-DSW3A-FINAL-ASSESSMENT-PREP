@@ -52,10 +52,18 @@ interest.
             {
                 price = Convert.ToDouble(textBoxPrice.Text);
                 price = price + (price * 0.25);
+
+                textBoxDisplay.Text += "Payment\tNew Balance" + Environment.NewLine;
+                textBoxDisplay.Text += "=======\t===========" + Environment.NewLine;
+
                 while (price > 15)
                 {
-                    textBoxDisplay.Text += price.ToString() + Environment.NewLine;
-                    price = price - (price * 0.12);
+                    textBoxDisplay.Text += $"R{Math.Round(price * 0.12,2)}\t" + "R" + price.ToString() + Environment.NewLine;
+                    price = Math.Round(price - (price * 0.12),2);
+                }
+                if (price > 0)
+                {
+                    textBoxDisplay.Text += $"R{price}\tR0.00" + Environment.NewLine;
                 }
             }
         }

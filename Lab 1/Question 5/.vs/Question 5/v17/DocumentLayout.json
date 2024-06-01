@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 1\\Question 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{438168E5-E268-41E9-A1E0-97AD729C3596}|Question 5.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 1\\question 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438168E5-E268-41E9-A1E0-97AD729C3596}|Question 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438168E5-E268-41E9-A1E0-97AD729C3596}|Question 5.csproj|C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 1\\Question 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{438168E5-E268-41E9-A1E0-97AD729C3596}|Question 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 1\\Question 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 1\\Question 5\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:34:15.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 1\\Question 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 1\\Question 5\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:32:28.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
