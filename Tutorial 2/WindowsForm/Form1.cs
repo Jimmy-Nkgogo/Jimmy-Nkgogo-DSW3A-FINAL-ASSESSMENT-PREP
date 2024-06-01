@@ -17,6 +17,7 @@ namespace WindowsForm
             InitializeComponent();
         }
         Data data = new Data();
+        Data[] dataArray;
         DataManager manager;
         int count;
         private void buttonLoad_Click(object sender, EventArgs e)
@@ -87,6 +88,18 @@ namespace WindowsForm
                     radioButtonMale.Checked = true;
                 }
             }
+        }
+
+        private void radioButtonCom_CheckedChanged(object sender, EventArgs e)
+        {
+            dataArray = manager.determineDomain(".com");
+            textBoxDisplay.Clear();
+            string result = "";
+            foreach (var data in dataArray)
+            {
+                result += $"{data.Number,-10}\t{data.Name,-15}{data.Surname,-20}{data.Email,-30}{data.Gender,-40}{data.Gender,-50} {data.IP}" + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
         }
     }
 }

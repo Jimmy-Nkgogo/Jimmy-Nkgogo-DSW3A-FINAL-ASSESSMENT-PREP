@@ -176,7 +176,7 @@
             this.textBoxDisplay.Multiline = true;
             this.textBoxDisplay.Name = "textBoxDisplay";
             this.textBoxDisplay.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBoxDisplay.Size = new System.Drawing.Size(727, 116);
+            this.textBoxDisplay.Size = new System.Drawing.Size(932, 137);
             this.textBoxDisplay.TabIndex = 12;
             // 
             // groupBoxGender
@@ -220,7 +220,7 @@
             this.groupBoxDomain.Controls.Add(this.radioButtonEdu);
             this.groupBoxDomain.Controls.Add(this.radioButtonGov);
             this.groupBoxDomain.Controls.Add(this.radioButtonCom);
-            this.groupBoxDomain.Location = new System.Drawing.Point(16, 466);
+            this.groupBoxDomain.Location = new System.Drawing.Point(13, 497);
             this.groupBoxDomain.Name = "groupBoxDomain";
             this.groupBoxDomain.Size = new System.Drawing.Size(727, 54);
             this.groupBoxDomain.TabIndex = 14;
@@ -248,6 +248,7 @@
             this.radioButtonCom.TabStop = true;
             this.radioButtonCom.Text = ".com";
             this.radioButtonCom.UseVisualStyleBackColor = true;
+            this.radioButtonCom.CheckedChanged += new System.EventHandler(this.radioButtonCom_CheckedChanged);
             // 
             // radioButtonRu
             // 
@@ -371,7 +372,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(673, 325);
+            this.label12.Location = new System.Drawing.Point(715, 325);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(73, 16);
             this.label12.TabIndex = 23;
@@ -381,7 +382,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 536);
+            this.ClientSize = new System.Drawing.Size(980, 563);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
