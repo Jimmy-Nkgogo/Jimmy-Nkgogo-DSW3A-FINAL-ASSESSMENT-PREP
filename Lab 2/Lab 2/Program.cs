@@ -16,15 +16,35 @@ namespace Lab_2
             {
                 if (option == 1)
                 {
-                    string[] lines = DisplayAllData();
-                    foreach (var item in lines)
+                    try
                     {
-                        Console.WriteLine(item);
+                        string[] lines = DisplayAllData();
+                        foreach (var item in lines)
+                        {
+                            Console.WriteLine(item);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
                     }
                 }
                 else if (option == 2)
                 {
-                    Console.WriteLine("Given year");
+                    try
+                    {
+                        Console.Write("Enter the year: ");
+                        int year = int.Parse(Console.ReadLine());
+                        string[] lines = DisplayYearData(year);
+                        foreach (var line in lines)
+                        {
+                            Console.WriteLine(line);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
                 }
                 else if (option == 3)
                 {
@@ -56,12 +76,26 @@ namespace Lab_2
             string path = @"carData.csv";
             string[] lines = File.ReadAllLines(path);
             List<string> formattedLines = new List<string>();
-
+            
             for (int i = 1; i < lines.Length; i++)
             {
                 formattedLines.Add(lines[i]);
             }
             return formattedLines.ToArray();
+        }
+        static string[] DisplayYearData(int year)
+        {
+            string[] lines = DisplayAllData();
+            List<string> yearData = new List<string>();
+            foreach (var line in lines)
+            {
+                string[] arrayLine = line.Split(',');
+                if (int.Parse(arrayLine[0])  == year)
+                {
+                    yearData.Add(line);
+                }
+            }
+            return yearData.ToArray();
         }
     }
 }
