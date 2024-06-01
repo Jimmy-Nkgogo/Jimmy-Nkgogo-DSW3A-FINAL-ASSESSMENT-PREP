@@ -1,0 +1,1001 @@
+car_year,car_brand,car_model,car_speed_limit,amount_of_doors,fuel_size,car_mileage,number_of_accidents,amount_of_previous_owners
+2014,Jeep,Compass,132,4,12.5,66007,1,2
+2017,GMC,Acadia,132,4,13.7,66326,1,1
+2017,Buick,Rainier,127,4,13.5,55791,0,2
+2013,Acura,Legend,130,4,14.1,46258,2,2
+2012,Dodge,D250,111,4,13.4,63051,0,2
+2012,Nissan,Titan,115,4,14.0,50998,2,3
+2010,Mitsubishi,Montero,126,4,14.0,60850,3,1
+2013,Chrysler,Pacifica,113,4,14.4,59400,0,2
+2011,GMC,Jimmy,125,4,14.0,37244,0,1
+2010,Dodge,Intrepid,118,4,14.2,59009,2,1
+2016,Mitsubishi,Lancer Evolution,123,4,13.0,44691,2,2
+2018,Maybach,62,114,4,13.1,55792,2,1
+2011,Volvo,850,126,4,12.5,52577,2,1
+2011,Mitsubishi,Mirage,119,4,12.1,38079,3,3
+2017,Mercedes-Benz,E-Class,130,4,12.4,52181,0,2
+2012,Mercedes-Benz,C-Class,134,4,13.0,62302,1,3
+2018,Audi,90,128,4,11.8,46723,1,1
+2015,Saab,9000,114,4,13.7,69663,2,1
+2019,Hummer,H2,125,4,12.2,30443,3,3
+2012,Lotus,Evora,110,4,13.6,45658,3,2
+2015,Mitsubishi,Challenger,130,4,12.1,33916,3,2
+2010,Lexus,GS,116,4,14.3,59829,3,1
+2013,Subaru,Brat,116,4,12.6,31044,2,1
+2013,Volvo,S80,134,4,11.7,56244,1,1
+2011,Chevrolet,Astro,119,4,12.6,58485,0,1
+2012,Chevrolet,Suburban 2500,128,4,13.7,32466,2,3
+2015,Jaguar,XJ,131,4,13.1,53084,2,1
+2017,Austin,Mini Cooper S,118,4,12.3,67263,1,3
+2010,Toyota,Tundra,121,4,13.4,33207,3,1
+2017,GMC,Sonoma,110,4,11.7,54806,1,2
+2010,Dodge,Dakota Club,130,4,11.8,56061,0,1
+2012,BMW,760,130,4,12.9,68821,0,1
+2013,Chevrolet,Express,123,4,13.1,67323,3,2
+2014,Ford,Econoline E150,116,4,14.3,33074,1,1
+2014,Mazda,Navajo,113,4,13.5,32093,2,1
+2013,Chevrolet,Express,126,4,14.0,54061,0,2
+2017,Dodge,Ram Wagon B250,126,4,12.7,52239,0,1
+2018,Honda,del Sol,126,4,11.8,38756,1,1
+2010,Volvo,XC60,132,4,14.0,64057,0,2
+2019,Nissan,Frontier,127,4,14.4,34276,1,2
+2010,Mercury,Topaz,128,4,14.2,39694,0,1
+2013,Lexus,RX,122,4,11.8,47753,3,3
+2017,GMC,Safari,116,4,12.0,39806,0,3
+2019,Mitsubishi,Tredia,133,4,13.6,66279,2,1
+2019,GMC,Jimmy,123,4,13.3,67039,0,1
+2012,Porsche,911,118,4,12.3,63295,3,3
+2019,Toyota,Supra,121,4,14.0,58717,0,3
+2012,Dodge,Ram,129,4,13.2,35379,1,2
+2016,Hyundai,Excel,120,4,12.0,69125,3,2
+2011,Toyota,Tundra,120,4,12.7,57447,2,1
+2017,Toyota,Prius Plug-in,117,4,14.4,59744,3,2
+2015,Volvo,XC90,131,4,12.1,41699,2,3
+2015,Ford,Ranger,131,4,13.9,45084,0,2
+2014,Pontiac,Montana,110,4,14.2,42159,0,3
+2016,Toyota,Land Cruiser,119,4,12.8,69272,2,2
+2013,BMW,330,120,4,12.8,39732,0,3
+2016,Toyota,RAV4,114,4,13.3,42658,2,2
+2019,Toyota,Sienna,116,4,13.5,39790,1,1
+2018,Cadillac,Catera,116,4,12.4,64064,0,2
+2014,Mercury,Marquis,132,4,13.8,37972,1,3
+2017,Daihatsu,Rocky,131,4,13.4,43416,2,2
+2013,Jeep,Cherokee,129,4,14.2,62588,2,3
+2017,Ford,Contour,110,4,13.8,37223,0,1
+2013,Buick,Riviera,120,4,12.3,64539,1,1
+2017,Pontiac,Fiero,122,4,13.9,67195,1,2
+2011,Subaru,Alcyone SVX,120,4,11.6,32800,1,3
+2014,Ford,Explorer,118,4,11.5,56549,3,3
+2019,Honda,Fit,121,4,13.5,67755,1,3
+2014,Saab,9-5,128,4,14.2,51091,2,1
+2017,Volkswagen,Vanagon,123,4,13.2,49866,0,3
+2010,Toyota,Tacoma,122,4,13.3,41680,3,1
+2012,Toyota,MR2,124,4,13.6,44702,1,2
+2018,Dodge,Caravan,114,4,12.0,64230,0,1
+2018,Lincoln,Navigator L,113,4,14.0,38972,1,2
+2012,Ford,F-Series,115,4,12.3,52198,2,2
+2010,Mitsubishi,Pajero,117,4,13.2,33156,0,3
+2012,Pontiac,Grand Prix,125,4,11.7,37618,1,3
+2011,Subaru,Outback,127,4,12.8,47536,0,3
+2011,Mercedes-Benz,Sprinter 3500,116,4,14.1,38841,0,1
+2014,Toyota,Camry,121,4,11.7,53448,0,2
+2010,Chevrolet,Impala,125,4,13.5,42005,2,1
+2012,Kia,Sportage,127,4,12.6,48575,1,1
+2014,Suzuki,Samurai,129,4,12.7,64827,3,1
+2017,Ford,Taurus X,124,4,13.5,51960,0,3
+2015,Cadillac,Seville,126,4,11.8,37503,3,2
+2013,Land Rover,Freelander,129,4,14.4,66889,1,1
+2014,Toyota,Celica,132,4,11.8,50062,2,1
+2019,Ford,F-Series,116,4,13.9,65602,1,1
+2016,Subaru,Tribeca,116,4,13.8,38429,2,1
+2010,Chevrolet,Cobalt SS,112,4,11.8,69096,2,3
+2011,Toyota,Highlander,114,4,11.8,46982,2,3
+2013,Lexus,ES,125,4,13.6,37668,1,3
+2018,Honda,Fit,133,4,14.0,59278,0,1
+2015,Acura,MDX,118,4,14.0,30031,1,2
+2010,Dodge,Ram Van 1500,118,4,13.1,41345,3,3
+2018,GMC,Vandura 1500,131,4,13.9,58465,2,1
+2019,GMC,Yukon,127,4,11.8,55135,1,2
+2015,Ford,Crown Victoria,115,4,13.5,47173,2,1
+2012,Mazda,MPV,133,4,14.4,61154,1,1
+2019,Volvo,S60,124,4,13.5,36810,0,3
+2010,Lexus,GS,126,4,12.0,64442,3,1
+2017,Rolls-Royce,Phantom,117,4,12.3,41857,0,3
+2014,Buick,Park Avenue,118,4,13.3,67370,3,2
+2019,Volkswagen,Scirocco,127,4,13.8,65500,0,3
+2014,Ford,Club Wagon,123,4,14.3,58871,0,2
+2013,GMC,1500,123,4,14.4,54523,3,1
+2010,BMW,X6,126,4,13.1,45996,3,3
+2013,Jeep,Liberty,116,4,12.9,33973,2,3
+2015,Chevrolet,G-Series 3500,111,4,13.7,66668,1,3
+2017,Audi,A8,131,4,12.7,38691,1,1
+2015,Mitsubishi,Diamante,115,4,14.1,35535,0,2
+2018,Dodge,Ram 3500,122,4,12.2,56795,3,1
+2014,BMW,6 Series,119,4,13.7,58933,1,2
+2017,Chevrolet,Tracker,111,4,11.7,69401,0,1
+2012,Mercedes-Benz,300TE,129,4,12.4,54401,1,3
+2013,GMC,Sierra 1500,121,4,13.0,32558,0,1
+2019,Honda,Civic,115,4,11.7,60107,3,1
+2012,Buick,Century,128,4,11.6,62778,2,1
+2014,Lincoln,Continental,125,4,13.8,48383,3,2
+2013,Ford,Fiesta,112,4,12.6,44682,0,2
+2015,Acura,TL,123,4,13.2,40258,2,3
+2018,Pontiac,Parisienne,134,4,12.1,49099,2,2
+2018,Ford,Mustang,120,4,13.9,34234,2,2
+2017,Mercedes-Benz,SLK-Class,117,4,11.5,67561,2,3
+2019,Mercury,Monterey,120,4,12.9,69937,0,3
+2019,Honda,Prelude,133,4,13.3,62150,0,2
+2013,Oldsmobile,Silhouette,117,4,12.4,38546,1,2
+2013,Lamborghini,Countach,118,4,14.4,32200,3,1
+2010,Volvo,C30,126,4,14.2,38603,3,1
+2013,Ford,Mustang,131,4,13.3,49856,2,3
+2019,Ford,Explorer,122,4,11.9,43715,0,2
+2014,Mazda,Mazdaspeed6,121,4,13.1,62274,1,3
+2013,Cadillac,Escalade EXT,115,4,14.5,58999,3,3
+2012,Nissan,Pathfinder,122,4,14.2,48729,3,1
+2011,Ford,F150,127,4,13.7,48860,0,1
+2010,Volkswagen,Cabriolet,133,4,14.0,46476,3,2
+2013,Geo,Tracker,115,4,12.3,68096,2,3
+2013,Honda,Element,122,4,12.4,35199,3,3
+2015,Ford,F250,120,4,12.1,53997,2,1
+2010,Hyundai,Santa Fe,118,4,13.7,46480,0,2
+2018,Oldsmobile,Regency,114,4,13.8,30767,2,3
+2014,Toyota,Tundra,127,4,12.2,63427,1,1
+2014,Volvo,C70,130,4,13.0,52160,0,2
+2018,Pontiac,Grand Prix,116,4,12.6,40515,2,1
+2010,Ford,Taurus,132,4,12.2,33099,3,1
+2012,Audi,R8,128,4,11.7,36455,1,3
+2017,Cadillac,Allante,122,4,14.2,47662,1,1
+2014,Volkswagen,Jetta,129,4,12.6,46528,2,1
+2011,Volkswagen,Golf,134,4,11.8,48998,3,1
+2018,Toyota,Tundra,122,4,11.6,47855,1,3
+2017,Honda,Accord,116,4,12.3,33388,1,1
+2017,Cadillac,Escalade,115,4,13.3,52064,1,1
+2016,Mercedes-Benz,SL-Class,133,4,13.6,38067,0,1
+2012,Ford,F-Series,110,4,13.0,50358,1,2
+2013,Ford,Flex,116,4,13.6,54785,1,3
+2012,Dodge,Ram Van 1500,111,4,14.1,33145,0,2
+2014,Volkswagen,Scirocco,131,4,14.1,32897,1,2
+2018,GMC,Suburban 2500,122,4,13.2,63203,3,3
+2017,BMW,M5,111,4,13.7,52444,0,1
+2018,Suzuki,Esteem,123,4,14.2,67641,0,3
+2012,Buick,Century,126,4,12.5,63773,0,1
+2010,Pontiac,Sunbird,128,4,14.3,53144,2,1
+2013,Chevrolet,Metro,131,4,14.5,39325,0,1
+2017,Chevrolet,Aveo,111,4,13.3,53443,0,1
+2012,Mazda,CX-7,123,4,13.3,66435,2,3
+2018,Suzuki,SX4,130,4,11.5,48612,0,2
+2015,Cadillac,Escalade,110,4,12.1,43496,0,1
+2011,Dodge,Durango,118,4,13.2,49958,2,3
+2019,Mazda,Miata MX-5,126,4,13.1,55311,1,2
+2017,Lexus,RX Hybrid,128,4,13.8,45418,2,1
+2011,Mitsubishi,Lancer Evolution,130,4,14.5,62219,0,2
+2016,Mitsubishi,Lancer Evolution,123,4,12.5,67441,0,2
+2013,Mazda,626,125,4,13.3,54460,0,2
+2010,Audi,S8,135,4,12.6,62979,0,1
+2017,Audi,A5,122,4,13.3,43563,3,1
+2012,GMC,Yukon XL 1500,122,4,11.8,63923,1,1
+2018,Toyota,Land Cruiser,130,4,13.6,68650,2,2
+2014,Chevrolet,Silverado,122,4,12.3,63429,1,1
+2015,Jaguar,X-Type,128,4,14.1,46311,2,3
+2014,Mazda,Mazdaspeed 3,112,4,14.2,53683,1,3
+2011,Ford,Aerostar,116,4,11.8,45976,0,1
+2018,Kia,Soul,117,4,12.3,35576,2,1
+2010,Chevrolet,Prizm,125,4,13.2,64022,2,3
+2012,GMC,Savana 3500,122,4,11.8,38540,2,2
+2010,Honda,Odyssey,113,4,14.0,32494,2,1
+2010,Volvo,S60,123,4,14.3,56473,2,1
+2018,Lexus,GS,134,4,12.6,49646,1,2
+2017,Jeep,Grand Cherokee,110,4,13.0,67716,2,1
+2013,Audi,S4,111,4,14.4,49252,1,1
+2017,Ford,Aerostar,133,4,12.0,30099,1,2
+2017,Ford,Fusion,133,4,13.8,58268,1,3
+2015,Ford,Ranger,135,4,13.8,63886,1,1
+2010,Mitsubishi,Starion,111,4,14.1,60193,3,2
+2017,Plymouth,Voyager,130,4,13.2,64804,2,2
+2016,Porsche,968,129,4,14.0,47611,0,2
+2013,Kia,Amanti,128,4,11.8,58677,1,1
+2011,Honda,Odyssey,110,4,13.7,55670,2,3
+2013,Isuzu,Space,132,4,13.4,63254,1,2
+2010,Pontiac,Bonneville,114,4,14.0,52206,3,3
+2018,Mercedes-Benz,300SD,128,4,13.5,47723,2,2
+2017,Infiniti,Q,126,4,12.9,30595,2,1
+2016,Ford,Ranger,122,4,12.5,31822,2,1
+2013,Suzuki,SX4,127,4,11.5,67481,0,3
+2019,Pontiac,Chevette,112,4,14.1,59850,2,2
+2018,Ford,Mustang,134,4,11.7,53659,2,3
+2013,Dodge,Dakota Club,126,4,13.0,32246,3,3
+2014,Cadillac,STS-V,130,4,12.3,60365,1,2
+2015,Ford,Econoline E250,128,4,12.8,51303,3,2
+2011,Chevrolet,Corvette,130,4,13.4,55305,1,2
+2014,Chevrolet,S10,119,4,12.9,67499,3,1
+2019,Toyota,Paseo,119,4,11.9,62039,2,1
+2011,Nissan,Altima,135,4,12.9,33907,0,2
+2015,Plymouth,Prowler,130,4,14.4,60790,0,1
+2013,Buick,Skylark,116,4,12.8,39494,0,2
+2019,Suzuki,Swift,122,4,12.8,42888,0,3
+2010,Dodge,Dakota,110,4,13.7,36577,3,3
+2011,Chevrolet,Silverado 1500,129,4,11.7,64259,2,1
+2010,Lamborghini,Diablo,126,4,14.1,41544,0,2
+2016,Scion,tC,122,4,11.7,33460,2,1
+2017,Mazda,Tribute,119,4,12.8,36564,1,3
+2015,Land Rover,Discovery,129,4,12.7,35003,0,3
+2017,Oldsmobile,88,118,4,14.3,35720,0,2
+2011,Dodge,Viper,128,4,13.1,30955,2,2
+2016,Acura,RDX,122,4,13.4,38636,2,1
+2010,Kia,Carens,125,4,14.3,61858,2,1
+2018,Mitsubishi,Galant,119,4,12.5,59218,2,3
+2018,Oldsmobile,Bravada,114,4,14.5,30796,0,3
+2015,Chevrolet,Suburban,118,4,12.6,63600,3,2
+2014,Subaru,Justy,122,4,14.1,33518,3,2
+2010,Mercedes-Benz,E-Class,112,4,14.1,38556,3,1
+2012,Nissan,Sentra,112,4,12.5,65946,1,1
+2012,Dodge,Ram 1500,132,4,13.2,35102,2,1
+2012,Mitsubishi,Pajero,123,4,12.5,65276,2,2
+2015,Dodge,Grand Caravan,117,4,11.8,50976,2,1
+2015,Cadillac,Fleetwood,113,4,12.3,65844,3,1
+2014,Lexus,LS,133,4,14.4,36150,0,1
+2015,Saturn,S-Series,118,4,12.8,49656,0,2
+2015,Mercury,Tracer,127,4,12.0,64115,3,2
+2018,GMC,Savana 1500,129,4,13.9,65120,2,3
+2017,Mitsubishi,Challenger,129,4,13.5,46246,1,2
+2017,Honda,S2000,123,4,12.8,61964,0,3
+2011,Nissan,Frontier,114,4,12.1,64463,1,1
+2015,Porsche,911,118,4,12.3,54981,0,2
+2016,Jeep,Grand Cherokee,116,4,12.6,63957,3,3
+2011,Suzuki,Equator,110,4,12.3,53478,1,2
+2014,Nissan,Sentra,132,4,11.6,66814,1,2
+2018,Hyundai,XG350,134,4,12.0,34201,3,1
+2018,Acura,RL,133,4,11.9,69917,1,3
+2013,Mercury,Cougar,122,4,12.5,64537,0,1
+2013,Honda,S2000,125,4,12.5,65818,1,2
+2019,Volkswagen,Touareg 2,128,4,12.5,69504,2,2
+2016,Mercedes-Benz,CL-Class,135,4,13.7,47849,1,2
+2017,Buick,Regal,128,4,12.9,35395,2,1
+2011,Mazda,Familia,130,4,12.8,40437,2,1
+2011,GMC,Sierra 1500,119,4,12.8,53676,2,3
+2015,Dodge,Ram Van B250,112,4,13.4,48141,0,1
+2014,Pontiac,GTO,124,4,13.5,58644,0,1
+2018,GMC,Savana 2500,127,4,13.9,52125,0,3
+2016,Lamborghini,Diablo,111,4,13.6,61756,0,3
+2017,Chrysler,300,133,4,11.7,54814,3,2
+2016,Oldsmobile,LSS,119,4,14.4,46781,1,2
+2014,Pontiac,Grand Am,117,4,13.0,57688,2,1
+2015,Jensen,Interceptor,129,4,11.6,64334,0,2
+2019,GMC,Rally Wagon 1500,132,4,12.2,30010,3,1
+2017,Porsche,Boxster,123,4,12.0,42265,2,1
+2019,Mercedes-Benz,SLR McLaren,110,4,13.2,44610,0,2
+2010,Volkswagen,Fox,111,4,11.9,63301,0,1
+2011,Dodge,Dakota Club,117,4,14.1,60992,1,2
+2014,Land Rover,LR3,114,4,14.2,39875,3,1
+2013,Isuzu,i-290,125,4,11.5,56510,1,3
+2015,Buick,Park Avenue,116,4,12.1,39280,0,2
+2011,Ford,Focus,127,4,13.5,35676,1,3
+2010,Honda,Civic,115,4,12.1,63523,0,2
+2016,Toyota,Xtra,131,4,12.1,31107,0,1
+2013,GMC,Savana,118,4,13.1,68583,3,1
+2012,Chrysler,300C,116,4,12.8,62158,0,3
+2014,Buick,Somerset,125,4,14.0,43024,2,3
+2014,Ferrari,F430,120,4,13.4,38064,1,3
+2014,Acura,NSX,129,4,14.1,53563,1,2
+2016,Lincoln,Town Car,132,4,14.5,49441,1,1
+2017,Chevrolet,Avalanche,118,4,13.2,30115,1,1
+2010,Subaru,SVX,112,4,11.8,56526,1,3
+2019,MINI,Cooper,124,4,14.4,65848,2,2
+2011,Volvo,S40,129,4,12.5,43172,1,1
+2013,Audi,A3,115,4,14.3,37545,0,1
+2017,Cadillac,Catera,118,4,12.6,52750,3,3
+2012,Lincoln,Navigator,134,4,13.0,53409,2,3
+2010,Mazda,B-Series,131,4,11.5,68202,2,3
+2018,Subaru,Alcyone SVX,130,4,11.8,32772,3,3
+2019,Mazda,MX-5,134,4,14.5,57191,3,1
+2019,Suzuki,Sidekick,124,4,13.4,54893,1,1
+2018,Cadillac,Escalade EXT,128,4,12.4,67851,1,2
+2010,Mazda,Mazda2,133,4,12.6,54855,2,1
+2013,Mercedes-Benz,300CE,112,4,13.4,52860,3,1
+2015,Nissan,NV2500,134,4,14.4,37017,3,3
+2012,Dodge,Nitro,116,4,12.8,69037,1,1
+2010,Lamborghini,Reventón,115,4,12.1,67313,3,2
+2014,Jaguar,X-Type,130,4,12.4,38088,0,3
+2015,Mazda,Mazda6,131,4,13.7,30122,3,3
+2013,Ford,Galaxie,111,4,13.0,53285,1,2
+2017,Porsche,928,131,4,13.8,43965,2,1
+2012,Toyota,Camry,128,4,14.3,52372,0,3
+2013,Mercury,Topaz,125,4,13.6,34159,1,1
+2015,Chevrolet,Blazer,115,4,14.3,47086,3,2
+2016,Cadillac,Escalade ESV,120,4,13.2,66864,1,3
+2013,BMW,X3,121,4,12.0,36799,1,3
+2017,Mercedes-Benz,SLK-Class,129,4,12.4,37674,0,3
+2010,Mazda,MX-5,110,4,12.1,63348,0,2
+2011,Suzuki,Equator,128,4,12.2,66273,3,1
+2011,Mazda,CX-9,119,4,12.2,43606,3,2
+2016,Mazda,Millenia,132,4,12.4,43538,0,1
+2015,Nissan,Murano,118,4,11.9,61528,1,2
+2010,Panoz,Esperante,114,4,11.7,49986,0,3
+2015,Oldsmobile,88,121,4,11.7,37803,2,2
+2018,Kia,Sportage,121,4,13.4,58604,0,2
+2012,Scion,xB,132,4,13.6,67093,1,3
+2013,Chevrolet,Sportvan G20,129,4,14.1,40899,2,2
+2012,Nissan,GT-R,124,4,12.9,44250,3,1
+2018,Chevrolet,Sportvan G20,114,4,13.3,34316,3,1
+2012,Ford,Mustang,127,4,13.3,39606,0,3
+2015,Lexus,ES,121,4,11.9,57337,3,1
+2018,Suzuki,SJ,134,4,14.0,43293,0,1
+2014,Volkswagen,Type 2,112,4,12.4,49651,0,1
+2012,Honda,CR-V,135,4,12.9,52804,0,3
+2016,Pontiac,Grand Prix,129,4,12.8,50965,3,3
+2017,Buick,LaCrosse,127,4,14.2,35810,0,1
+2017,Pontiac,G8,120,4,12.6,47319,3,3
+2014,Buick,Rendezvous,126,4,12.9,64325,1,3
+2010,Plymouth,Colt,112,4,12.6,40413,1,3
+2017,Audi,A3,116,4,13.1,63111,0,1
+2010,Infiniti,Q,122,4,14.3,37108,0,3
+2019,Ford,Festiva,120,4,12.5,35005,1,2
+2012,Volvo,C70,119,4,14.1,52470,0,1
+2012,Dodge,Grand Caravan,110,4,13.4,62925,2,2
+2012,Infiniti,FX,111,4,12.7,67675,0,2
+2010,Nissan,Sentra,134,4,13.2,57734,1,3
+2019,Mazda,626,113,4,12.5,67468,0,1
+2014,Mazda,GLC,125,4,14.4,59073,2,2
+2018,Chrysler,Aspen,134,4,11.7,60530,3,2
+2011,Chevrolet,Equinox,128,4,14.1,58896,2,3
+2017,Isuzu,Rodeo,128,4,11.7,65955,0,1
+2012,Toyota,4Runner,116,4,12.4,46704,0,3
+2010,Dodge,Grand Caravan,121,4,13.5,41276,0,1
+2012,Subaru,Brat,124,4,14.4,59398,0,2
+2015,Mitsubishi,Lancer,135,4,14.5,62236,3,1
+2017,Mercedes-Benz,400SEL,132,4,14.5,43873,0,2
+2011,Mercedes-Benz,SLS-Class,135,4,11.6,62782,0,2
+2013,Ford,Ranger,110,4,13.6,41118,3,3
+2018,Pontiac,Grand Am,135,4,12.6,39396,3,3
+2013,Toyota,Land Cruiser,117,4,14.4,42821,1,3
+2018,GMC,Savana,115,4,11.9,57035,0,2
+2015,Infiniti,G,129,4,12.8,47357,0,2
+2010,Saturn,VUE,119,4,11.7,47425,1,2
+2017,Toyota,Solara,111,4,12.2,62010,2,2
+2012,Volkswagen,CC,110,4,11.8,45777,1,3
+2010,Ford,Escape,121,4,13.9,56611,1,1
+2017,Infiniti,G,130,4,11.9,45211,0,3
+2011,Ford,Explorer,116,4,12.5,56683,0,1
+2017,Ford,Escort,131,4,12.6,53109,2,3
+2013,Honda,Prelude,113,4,11.7,32154,2,1
+2019,Porsche,928,113,4,14.3,50683,2,3
+2010,Mercedes-Benz,S-Class,114,4,14.2,68185,0,2
+2013,Mitsubishi,Galant,114,4,12.7,43855,1,1
+2019,Ford,Freestyle,112,4,12.0,59867,2,2
+2014,Chevrolet,Tracker,121,4,13.7,54589,2,2
+2010,Chevrolet,APV,134,4,13.7,37115,3,3
+2015,Mitsubishi,Pajero,120,4,12.4,59703,3,1
+2015,Honda,Accord,131,4,12.2,35651,3,2
+2018,BMW,M Roadster,114,4,12.7,51786,3,1
+2013,Scion,tC,120,4,14.1,58272,2,2
+2019,Honda,CR-V,125,4,12.2,57256,3,1
+2016,BMW,X6,120,4,12.6,44037,0,2
+2019,Mercedes-Benz,M-Class,119,4,12.3,39034,2,2
+2017,Mercury,Montego,125,4,14.2,38126,0,1
+2016,Pontiac,Bonneville,112,4,13.1,47227,2,1
+2012,Toyota,Camry,128,4,12.3,55278,0,2
+2016,Isuzu,Ascender,111,4,13.4,60754,0,3
+2015,Dodge,Ram Van 3500,131,4,12.1,55547,0,2
+2010,Jaguar,XJ Series,135,4,12.1,68142,1,1
+2012,Ford,E250,122,4,14.3,54461,3,3
+2011,Mercury,Mariner,119,4,14.0,35109,0,3
+2010,Ford,F250,111,4,12.2,49143,2,3
+2018,Nissan,Quest,130,4,13.9,59413,3,1
+2011,Toyota,Avalon,119,4,11.9,51727,2,3
+2012,Jaguar,XK,120,4,11.8,34798,3,1
+2012,GMC,Safari,119,4,12.6,44050,2,3
+2016,Ford,Taurus,130,4,13.5,60157,3,3
+2017,Toyota,Camry,114,4,11.6,43661,1,3
+2016,Mercedes-Benz,S-Class,134,4,12.5,57039,2,2
+2019,Lexus,SC,117,4,14.1,48809,0,2
+2016,Chevrolet,G-Series G10,128,4,13.3,69142,0,3
+2016,Mercury,Mountaineer,121,4,13.7,63361,0,1
+2012,Volkswagen,Phaeton,126,4,13.8,40253,3,1
+2012,Mitsubishi,Lancer Evolution,123,4,12.5,41231,0,3
+2011,Mitsubishi,Challenger,121,4,13.1,69891,2,2
+2011,Suzuki,Reno,114,4,13.3,65839,0,2
+2017,Isuzu,Rodeo,132,4,11.6,40731,2,2
+2014,Nissan,Frontier,123,4,12.5,49929,0,1
+2019,Pontiac,Firebird,127,4,14.4,60094,2,2
+2019,Kia,Sorento,110,4,12.6,44525,1,3
+2015,Mercury,Grand Marquis,129,4,12.5,34230,2,3
+2017,Acura,RSX,123,4,12.3,42050,0,1
+2014,Pontiac,Montana SV6,123,4,13.0,46285,0,3
+2016,Ford,Bronco,111,4,13.0,46409,3,2
+2010,Smart,Fortwo,129,4,12.9,45463,0,1
+2012,Mercedes-Benz,SL-Class,117,4,12.2,53556,1,3
+2014,Oldsmobile,Ciera,122,4,13.8,33752,0,1
+2013,Maserati,Karif,123,4,12.8,40206,2,1
+2014,Acura,NSX,110,4,12.1,43724,3,3
+2019,Toyota,Supra,129,4,12.5,33868,1,3
+2019,Porsche,Boxster,122,4,11.8,33779,0,2
+2011,Nissan,Frontier,132,4,13.4,64115,0,1
+2010,Suzuki,Grand Vitara,123,4,13.9,66256,0,1
+2010,Mazda,929,128,4,13.9,47222,3,3
+2017,Chevrolet,Express 1500,118,4,13.8,42524,0,1
+2013,Volkswagen,riolet,133,4,11.8,64505,2,3
+2012,Jaguar,XJ Series,115,4,14.4,44555,2,1
+2011,Pontiac,Firefly,129,4,12.8,48593,2,3
+2018,Dodge,Daytona,111,4,12.5,65586,1,3
+2012,Buick,Enclave,121,4,12.8,30409,3,3
+2017,Subaru,Legacy,134,4,11.5,38131,3,3
+2012,Chevrolet,Colorado,113,4,14.1,40383,0,3
+2015,BMW,X3,113,4,14.3,49905,2,1
+2015,Saab,9-2X,132,4,13.2,51977,2,2
+2010,BMW,1 Series,111,4,12.4,50332,0,3
+2011,Subaru,Legacy,124,4,11.6,38884,1,1
+2014,Pontiac,Montana SV6,120,4,13.8,34688,0,3
+2018,Chevrolet,Corvette,130,4,14.3,58247,3,2
+2010,Ford,Thunderbird,127,4,13.1,62440,0,1
+2010,Bentley,Continental,115,4,12.0,31431,2,2
+2010,Land Rover,Discovery Series II,134,4,14.4,42453,3,3
+2016,Chevrolet,Suburban 1500,124,4,12.9,51149,1,2
+2014,Toyota,Solara,123,4,13.5,32999,2,3
+2017,Chevrolet,Suburban 2500,111,4,12.9,43936,0,2
+2013,Ford,Escort,130,4,13.6,41562,1,1
+2019,Lincoln,Navigator,114,4,14.1,63222,0,2
+2010,Ford,Aerostar,124,4,14.3,59126,0,1
+2014,Plymouth,Sundance,132,4,12.1,49899,3,1
+2011,Toyota,Corolla,135,4,13.3,46639,0,3
+2010,Chevrolet,Malibu,117,4,12.5,58312,1,2
+2014,Mercedes-Benz,SLK-Class,121,4,13.3,38706,2,3
+2015,Mercedes-Benz,CLK-Class,133,4,13.6,38813,2,2
+2016,Honda,Pilot,133,4,12.2,68316,0,1
+2014,Ford,Explorer,134,4,12.2,32283,1,2
+2016,Toyota,Land Cruiser,126,4,12.7,35099,2,1
+2014,Dodge,Ram Van B150,118,4,12.7,37801,3,3
+2017,Audi,A6,123,4,11.6,38715,1,2
+2014,Chevrolet,Sportvan G20,124,4,12.1,50681,0,3
+2015,MINI,Cooper,114,4,14.0,39359,2,3
+2014,Volvo,S40,116,4,13.9,41776,3,1
+2018,Rolls-Royce,Ghost,114,4,13.4,62943,3,2
+2010,Mitsubishi,Endeavor,110,4,12.2,62902,2,3
+2012,BMW,7 Series,130,4,13.8,40602,0,3
+2010,Mazda,MX-5,117,4,11.8,56138,2,2
+2019,Porsche,Boxster,124,4,12.9,51920,1,1
+2014,Isuzu,Ascender,126,4,12.5,59904,3,1
+2010,Suzuki,Kizashi,134,4,12.6,45971,0,1
+2015,Suzuki,Grand Vitara,128,4,13.6,45491,3,3
+2015,Mercury,Capri,128,4,14.2,34922,0,2
+2014,Toyota,Prius,121,4,12.2,52960,3,3
+2016,Chevrolet,3500,132,4,12.9,46125,1,2
+2019,Toyota,4Runner,113,4,13.1,42824,1,2
+2019,Lamborghini,Diablo,113,4,11.8,41384,1,2
+2011,Chevrolet,Lumina,134,4,11.7,46274,0,3
+2014,Infiniti,Q,114,4,12.4,56584,2,3
+2016,Mercedes-Benz,CL-Class,131,4,13.4,43257,3,2
+2015,Mitsubishi,Mirage,134,4,13.3,52319,1,3
+2017,BMW,1 Series,127,4,12.2,62508,2,3
+2016,Subaru,Baja,131,4,11.9,55856,1,3
+2012,Suzuki,SJ,127,4,13.8,61960,2,1
+2012,Mazda,Mazdaspeed 3,110,4,12.0,42248,1,1
+2012,Nissan,Pathfinder,111,4,14.3,69764,1,1
+2017,Dodge,D250,113,4,12.9,44903,1,3
+2018,Suzuki,Swift,115,4,14.0,60962,2,2
+2012,Mazda,RX-8,131,4,13.7,61909,2,2
+2010,Audi,A8,115,4,12.6,39693,0,1
+2017,BMW,M5,135,4,11.8,59380,3,2
+2014,Ford,LTD Crown Victoria,112,4,12.0,30481,2,2
+2018,Subaru,Justy,127,4,13.8,41184,0,1
+2018,Ford,Taurus,118,4,12.9,64365,3,1
+2017,Suzuki,SJ,124,4,13.7,44064,2,1
+2012,Infiniti,G,128,4,13.2,44722,3,3
+2014,Nissan,Pathfinder Armada,124,4,13.2,39172,2,1
+2010,Chevrolet,Astro,122,4,14.3,49266,1,1
+2019,Pontiac,Grand Prix,111,4,12.1,33102,1,1
+2015,Volkswagen,Jetta,135,4,12.5,35566,2,1
+2010,Mazda,Tribute,129,4,13.8,49047,3,3
+2012,Volkswagen,Jetta,130,4,12.0,42133,2,2
+2017,Volkswagen,Tiguan,131,4,12.7,37784,1,1
+2012,Dodge,Stealth,123,4,12.1,55378,1,3
+2014,Jaguar,XJ Series,114,4,13.4,43883,1,3
+2012,Subaru,SVX,115,4,12.0,50548,1,3
+2019,Ford,Ranger,133,4,14.2,42071,1,2
+2013,Buick,LeSabre,129,4,13.7,36060,0,2
+2016,Lincoln,MKZ,128,4,12.3,55698,1,2
+2013,Infiniti,I,120,4,13.4,40023,3,2
+2010,Lincoln,Navigator,117,4,13.2,65879,0,3
+2013,Aston Martin,Vantage,111,4,12.3,62155,2,2
+2013,Lincoln,Navigator,135,4,13.0,62145,0,3
+2019,BMW,3 Series,127,4,12.9,49088,3,2
+2015,BMW,6 Series,119,4,12.5,42828,3,1
+2012,Chevrolet,Suburban 2500,131,4,13.4,35398,1,3
+2019,Pontiac,GTO,113,4,12.0,47964,2,1
+2019,Plymouth,Volare,123,4,11.9,66299,1,2
+2017,Mitsubishi,Montero,134,4,12.5,67071,1,1
+2018,Daewoo,Nubira,125,4,11.9,55556,2,2
+2017,Chrysler,300,129,4,13.5,49070,2,1
+2019,Chrysler,Sebring,111,4,13.8,53861,3,2
+2017,Volvo,V70,112,4,14.2,40850,3,2
+2012,Porsche,Cayenne,122,4,12.6,47287,2,3
+2014,GMC,Vandura 3500,134,4,11.7,31260,3,2
+2013,Mercedes-Benz,400SEL,121,4,14.4,57835,0,3
+2014,Volkswagen,Corrado,111,4,13.8,34931,2,3
+2015,Land Rover,LR3,122,4,13.2,60003,3,3
+2019,Plymouth,Laser,129,4,14.2,56223,1,3
+2014,Audi,Q5,118,4,12.2,30505,3,3
+2012,Pontiac,Grand Prix,125,4,11.5,31828,2,1
+2013,Nissan,Xterra,124,4,12.6,37294,3,1
+2015,Isuzu,Axiom,132,4,14.5,53038,2,3
+2011,BMW,Z4,134,4,13.0,59319,2,3
+2011,Ford,Taurus,121,4,13.8,50872,1,1
+2018,Chevrolet,Corvette,129,4,14.4,50164,2,3
+2015,Buick,LaCrosse,114,4,12.4,63032,3,2
+2010,Ford,Fusion,125,4,13.8,39405,2,2
+2015,Dodge,Stratus,111,4,12.8,55732,2,3
+2017,Ford,E250,131,4,14.2,35861,2,3
+2018,Mercury,Mountaineer,111,4,13.4,66322,2,1
+2013,Ford,Bronco,127,4,13.6,30976,0,3
+2010,Ford,Taurus,126,4,14.1,66423,3,3
+2015,Mitsubishi,Lancer Evolution,122,4,12.9,66506,1,2
+2010,Aston Martin,DBS,127,4,12.4,31623,1,3
+2013,Ford,Thunderbird,117,4,12.4,30049,3,1
+2014,Mazda,CX-5,118,4,12.3,34957,0,1
+2011,Mercedes-Benz,SLK-Class,122,4,11.9,44329,1,1
+2011,GMC,Yukon,123,4,12.7,53705,2,1
+2014,Suzuki,Sidekick,130,4,12.6,52635,1,3
+2018,Mercedes-Benz,E-Class,112,4,13.1,63150,0,1
+2018,Isuzu,Oasis,132,4,11.9,32835,2,2
+2013,Chevrolet,Corvette,130,4,14.0,46441,3,2
+2012,Eagle,Summit,118,4,12.2,44497,3,3
+2016,Aston Martin,DB9,119,4,14.4,47905,3,1
+2012,Saab,900,124,4,13.0,68816,0,3
+2010,Honda,Accord,117,4,12.1,63156,2,2
+2017,Mazda,Protege,135,4,12.0,42054,2,2
+2018,Chevrolet,Volt,132,4,12.6,36298,2,1
+2016,Toyota,Tercel,134,4,14.3,41022,0,1
+2017,Ford,Econoline E150,127,4,14.3,69223,1,1
+2017,Ford,Ranger,131,4,12.4,30038,3,1
+2014,Lamborghini,Diablo,119,4,12.5,40910,3,1
+2018,Mercedes-Benz,E-Class,114,4,11.8,61288,2,2
+2011,GMC,Yukon XL 2500,135,4,13.5,54088,1,3
+2018,Mitsubishi,GTO,116,4,12.2,54644,0,3
+2017,Lincoln,Continental,120,4,13.2,54695,2,3
+2019,Subaru,Forester,115,4,12.8,69558,3,2
+2011,Mazda,626,115,4,11.5,45674,3,2
+2013,Chrysler,Pacifica,129,4,13.3,43861,1,1
+2019,Toyota,Supra,131,4,14.1,47752,3,2
+2011,Nissan,Sentra,128,4,11.9,64120,0,3
+2013,Nissan,Quest,123,4,11.9,31523,0,2
+2010,Chevrolet,S10,129,4,13.5,61955,3,2
+2015,Audi,Quattro,132,4,12.6,45942,3,2
+2013,Hummer,H3,124,4,13.2,48905,1,3
+2015,Chevrolet,1500,112,4,13.0,61383,0,1
+2019,Hyundai,Veracruz,110,4,12.5,48831,3,2
+2012,Isuzu,Ascender,120,4,12.9,53359,2,1
+2017,Volvo,V70,112,4,14.3,32431,3,2
+2013,Volkswagen,Touareg,122,4,12.2,56905,2,1
+2015,Mercury,Marquis,122,4,13.2,64701,0,1
+2013,Porsche,911,112,4,12.0,42116,2,2
+2016,Ford,F350,127,4,12.2,48126,2,2
+2011,Ford,LTD Crown Victoria,117,4,12.8,53658,3,3
+2011,Audi,A6,131,4,12.6,44964,1,3
+2018,Hyundai,Sonata,133,4,13.8,37152,3,1
+2013,Toyota,TundraMax,113,4,12.3,66685,3,3
+2017,Volvo,960,134,4,12.3,65159,0,3
+2011,Mercedes-Benz,Sprinter 3500,134,4,11.5,47445,3,1
+2011,Toyota,4Runner,118,4,14.3,42461,2,2
+2014,Ford,Explorer,128,4,13.7,66676,2,2
+2016,Nissan,Leaf,123,4,12.7,48568,2,2
+2018,Pontiac,Grand Am,118,4,13.4,49055,3,3
+2013,Bentley,Continental Flying Spur,134,4,12.7,34680,3,2
+2015,Ford,E350,120,4,12.6,36560,0,2
+2019,Infiniti,QX,118,4,14.3,41569,2,3
+2012,Jeep,Cherokee,122,4,11.6,64391,0,3
+2014,Hyundai,Elantra,128,4,12.9,62693,2,2
+2019,Cadillac,XLR,126,4,11.5,54671,3,2
+2017,Subaru,Justy,131,4,14.1,55074,0,3
+2019,Ford,GT,129,4,12.8,36405,1,2
+2016,Eagle,Vision,124,4,12.2,63076,0,2
+2018,Suzuki,Esteem,123,4,12.7,36849,2,1
+2012,Chevrolet,2500,123,4,14.3,64850,3,1
+2017,Infiniti,G,114,4,13.4,58759,2,1
+2014,Pontiac,Montana,135,4,13.8,43999,0,1
+2015,Chevrolet,Sportvan G10,119,4,13.0,48779,0,2
+2010,Volkswagen,Tiguan,110,4,12.0,53534,3,3
+2017,Ford,Taurus,112,4,12.9,32616,0,1
+2013,Mercedes-Benz,C-Class,112,4,12.4,32363,0,1
+2017,Mitsubishi,Pajero,129,4,14.4,48673,3,2
+2019,Mercedes-Benz,SLK55 AMG,118,4,11.6,48312,3,1
+2017,Audi,Allroad,130,4,13.5,43996,2,3
+2012,Ford,Econoline E250,124,4,14.3,45857,0,3
+2010,Pontiac,Aztek,125,4,11.6,63616,2,1
+2010,Chevrolet,Express 2500,112,4,13.0,65745,2,3
+2011,Chevrolet,Corvette,115,4,13.6,54888,2,1
+2011,Chrysler,PT Cruiser,122,4,14.3,69511,0,1
+2016,BMW,3 Series,123,4,13.0,64905,2,3
+2016,Mitsubishi,Montero Sport,130,4,12.7,64493,0,2
+2012,GMC,Sierra,130,4,12.5,32232,2,2
+2015,Volvo,850,111,4,12.8,49548,0,1
+2010,Mercedes-Benz,G-Class,122,4,13.4,56777,0,2
+2010,Volkswagen,Touareg,134,4,12.2,39114,3,3
+2016,Suzuki,Esteem,132,4,14.3,33103,3,2
+2010,Chevrolet,Camaro,128,4,12.4,38734,0,1
+2012,Honda,Pilot,130,4,12.8,55223,0,2
+2014,Buick,Century,134,4,13.9,34060,0,2
+2012,Ford,Mustang,114,4,14.5,34154,3,2
+2017,Toyota,RAV4,127,4,14.4,39474,3,2
+2017,Volkswagen,Jetta,110,4,13.5,41595,2,2
+2016,Chevrolet,Corvette,122,4,13.1,56446,2,1
+2011,Austin,Mini Cooper,127,4,13.9,36337,2,3
+2014,Ferrari,California,114,4,14.0,59826,2,1
+2013,Mitsubishi,Pajero,117,4,13.4,61116,2,3
+2015,Honda,Accord,110,4,12.5,66559,3,3
+2012,Lexus,ES,127,4,14.3,36084,1,2
+2015,Isuzu,Trooper,121,4,11.8,54528,1,2
+2015,Buick,Skylark,127,4,12.6,53132,3,1
+2017,Audi,A5,123,4,12.3,36724,1,1
+2011,Mazda,MX-5,120,4,11.9,44811,0,3
+2019,Audi,S5,133,4,13.6,34618,2,1
+2017,Mazda,B-Series Plus,120,4,12.5,40731,2,2
+2019,Chrysler,Sebring,115,4,14.2,66104,3,1
+2010,Nissan,Maxima,125,4,12.2,69098,2,3
+2013,Infiniti,G,128,4,11.7,60418,2,2
+2018,Buick,Skyhawk,121,4,14.1,67150,3,2
+2012,Aston Martin,Vantage,110,4,12.2,47513,3,2
+2015,Pontiac,Trans Sport,114,4,12.7,48938,3,3
+2012,Mazda,CX-7,116,4,12.0,43413,0,2
+2018,Infiniti,FX,117,4,12.8,57520,1,2
+2012,Ford,F350,122,4,14.2,61787,1,1
+2011,Suzuki,Grand Vitara,110,4,12.6,32005,0,2
+2015,Hyundai,Sonata,123,4,13.9,50880,3,1
+2015,Volkswagen,Touareg,118,4,12.1,60303,1,1
+2014,GMC,Sierra 2500,128,4,12.0,48823,2,3
+2014,Lexus,CT,122,4,14.1,47899,1,2
+2016,Volvo,240,126,4,14.1,43959,1,1
+2014,Mazda,929,131,4,11.7,33841,3,3
+2010,Chevrolet,TrailBlazer,133,4,12.3,63785,2,2
+2011,Subaru,Leone,123,4,12.8,62436,2,2
+2014,Mercedes-Benz,300CE,114,4,13.4,39298,0,1
+2010,Ford,F-Series Super Duty,111,4,13.5,35347,0,2
+2015,Volvo,S60,124,4,13.7,54750,2,1
+2013,Dodge,Intrepid,126,4,11.6,55443,2,3
+2016,Audi,100,113,4,14.4,61299,0,2
+2018,BMW,3 Series,118,4,12.0,69669,1,2
+2013,Ford,Thunderbird,130,4,12.8,65926,2,1
+2012,Ford,Bronco,135,4,13.8,49184,1,1
+2015,Hyundai,Accent,129,4,11.5,48969,1,3
+2018,Chevrolet,Caprice,111,4,12.4,52729,2,2
+2011,Mazda,Millenia,131,4,13.7,66638,2,2
+2011,Pontiac,Firebird,111,4,11.9,69643,3,3
+2015,Ford,Thunderbird,116,4,13.7,37381,2,1
+2018,Volvo,XC90,113,4,12.7,53929,3,3
+2012,Saturn,S-Series,127,4,14.4,67514,0,3
+2013,Plymouth,Laser,132,4,13.6,49200,1,3
+2018,Mercedes-Benz,S-Class,135,4,13.4,37884,2,3
+2016,Toyota,Celica,112,4,12.1,50178,0,1
+2019,Mercedes-Benz,Sprinter,124,4,12.6,36776,3,3
+2014,Nissan,300ZX,128,4,12.4,51028,3,2
+2011,Dodge,Ram Wagon B150,129,4,12.5,30270,1,3
+2016,Volkswagen,Jetta,121,4,11.7,48612,2,2
+2010,Chrysler,Concorde,124,4,13.8,35403,3,3
+2016,Mitsubishi,Endeavor,127,4,13.4,45880,2,2
+2012,Porsche,Boxster,117,4,12.1,56898,2,1
+2015,GMC,Rally Wagon 2500,128,4,14.3,49108,2,2
+2012,GMC,Jimmy,112,4,13.7,36885,2,3
+2010,Dodge,Ram Van 2500,131,4,13.1,56864,2,2
+2011,Land Rover,Discovery,119,4,12.1,60240,3,1
+2018,Mitsubishi,Lancer,133,4,11.8,46666,0,3
+2018,Ford,E250,133,4,13.0,52247,1,3
+2014,Ford,Ranger,128,4,12.7,35128,3,3
+2013,GMC,Sonoma Club Coupe,130,4,13.8,33604,2,3
+2019,Ford,E-Series,132,4,14.2,36606,1,2
+2012,Chevrolet,Avalanche 1500,111,4,14.3,63970,0,3
+2014,Pontiac,Grand Prix,114,4,14.3,51976,3,2
+2011,Mercedes-Benz,CLK-Class,120,4,11.8,39970,2,2
+2010,Jeep,Grand Cherokee,112,4,14.1,40827,2,2
+2013,Nissan,Maxima,124,4,14.0,41715,1,1
+2013,Chevrolet,S10,131,4,12.6,35782,1,1
+2019,Chevrolet,Volt,133,4,11.8,47769,1,3
+2016,Cadillac,Seville,133,4,13.0,31489,1,1
+2010,Ford,ZX2,112,4,13.7,53540,3,3
+2017,Lexus,LX,116,4,14.2,37188,0,1
+2010,Volkswagen,Tiguan,128,4,12.6,34824,0,3
+2019,Toyota,RAV4,124,4,14.0,53505,3,1
+2018,Lincoln,Continental Mark VII,119,4,11.8,42734,1,1
+2017,BMW,3 Series,112,4,14.1,32752,1,1
+2011,Ford,Falcon,135,4,14.2,37506,0,1
+2016,Oldsmobile,Aurora,127,4,12.8,36104,2,1
+2017,Dodge,Dakota,119,4,12.0,53023,3,1
+2013,Volvo,C70,125,4,14.2,36690,2,1
+2013,Mercedes-Benz,GLK-Class,133,4,13.8,54691,3,3
+2013,Lexus,LS,118,4,13.0,51934,0,1
+2013,Scion,tC,114,4,12.7,44452,1,1
+2018,Infiniti,QX,128,4,12.1,58226,3,3
+2018,Plymouth,Voyager,120,4,14.0,31454,1,1
+2010,Mercedes-Benz,SL-Class,112,4,12.4,44421,0,1
+2011,Chrysler,Cirrus,124,4,13.8,30818,3,1
+2015,MINI,Cooper Clubman,124,4,11.7,65406,1,2
+2013,BMW,6 Series,119,4,13.0,33661,0,3
+2014,Dodge,Ram 3500,112,4,13.3,31634,3,1
+2010,Ford,E350,118,4,13.1,32722,2,3
+2017,Saab,900,113,4,12.6,39706,3,2
+2011,Pontiac,Sunfire,113,4,12.3,40501,0,3
+2014,Toyota,Tercel,132,4,13.3,53458,0,2
+2019,Ford,Thunderbird,133,4,13.5,39219,2,2
+2017,Chrysler,Concorde,114,4,12.1,43684,0,3
+2017,Land Rover,Range Rover,126,4,11.8,31032,2,3
+2010,Mercedes-Benz,SL-Class,110,4,12.2,61646,0,2
+2011,Volvo,XC60,134,4,12.0,30873,2,2
+2017,Mitsubishi,Galant,132,4,13.7,41665,3,2
+2017,Dodge,Dakota,123,4,11.5,33884,1,2
+2016,Chevrolet,3500,120,4,12.1,55775,0,3
+2019,Chevrolet,Tahoe,134,4,13.6,56635,0,2
+2013,Mercedes-Benz,C-Class,113,4,14.1,53963,2,2
+2017,Suzuki,Sidekick,120,4,12.1,41868,3,2
+2012,Chevrolet,HHR Panel,125,4,11.5,35622,2,1
+2010,Lincoln,LS,120,4,11.5,67011,2,3
+2017,Dodge,Durango,135,4,12.6,58750,0,2
+2013,Pontiac,Grand Prix,121,4,12.4,53736,3,2
+2011,Chevrolet,Corvair,129,4,12.1,66494,2,1
+2015,Volkswagen,Golf,125,4,13.3,45033,3,3
+2010,Chevrolet,Express,116,4,14.2,55150,1,3
+2017,Acura,RDX,126,4,12.4,56429,1,1
+2013,Chevrolet,Cobalt,116,4,12.4,50623,1,3
+2014,Suzuki,Forenza,124,4,13.2,63715,0,2
+2013,Honda,Accord,120,4,11.9,32492,2,2
+2014,Jaguar,XF,127,4,11.8,57272,1,1
+2016,Volkswagen,rio,112,4,11.7,36467,2,3
+2016,Saturn,S-Series,127,4,12.5,50152,0,1
+2012,Ford,F350,126,4,11.9,69372,1,1
+2015,Cadillac,Seville,133,4,12.9,47524,0,3
+2012,Chevrolet,Corvette,133,4,13.7,68110,0,2
+2015,Lamborghini,Diablo,124,4,14.4,39656,1,3
+2018,Acura,Integra,115,4,11.7,62943,1,3
+2012,GMC,Sierra Denali,134,4,11.9,37652,2,1
+2010,Mazda,Protege,119,4,13.3,67102,0,1
+2010,Mazda,MX-5,135,4,12.1,58810,1,2
+2010,Buick,Regal,127,4,12.8,65809,1,1
+2013,Mitsubishi,3000GT,113,4,14.5,52037,2,1
+2011,Dodge,Caravan,125,4,12.5,40380,1,3
+2016,Chevrolet,Beretta,124,4,13.0,38906,0,1
+2012,GMC,Yukon XL 2500,134,4,12.7,55065,2,2
+2016,Nissan,Versa,124,4,13.5,55214,2,2
+2013,Cadillac,Eldorado,120,4,13.5,39747,3,3
+2019,GMC,Savana 3500,128,4,12.3,56916,3,3
+2014,Toyota,Highlander,134,4,14.0,64156,0,2
+2016,Mercury,Mystique,130,4,12.8,33764,0,2
+2017,BMW,600,125,4,12.1,44856,3,3
+2010,Ford,Mustang,112,4,13.3,37649,3,1
+2010,Kia,Sephia,112,4,12.8,57117,3,3
+2010,Mazda,Millenia,118,4,12.2,34692,3,3
+2015,Dodge,Grand Caravan,118,4,14.2,60956,1,2
+2018,Hyundai,Elantra,127,4,12.2,33068,0,3
+2013,Jaguar,X-Type,125,4,13.0,43930,1,2
+2019,Mitsubishi,Montero Sport,120,4,12.3,35142,2,2
+2019,Buick,Riviera,135,4,12.9,39014,0,2
+2012,Mercedes-Benz,SL-Class,124,4,13.5,30739,0,3
+2013,Porsche,Cayman,116,4,12.8,59537,0,1
+2010,Ford,Crown Victoria,132,4,13.9,40247,3,1
+2017,Audi,A8,110,4,14.0,31854,3,2
+2015,Ford,Explorer Sport,130,4,12.7,35429,2,2
+2019,Mercedes-Benz,E-Class,135,4,14.1,49050,0,1
+2019,Nissan,Altima,123,4,13.0,44905,1,2
+2019,Audi,A4,125,4,13.7,31582,1,1
+2019,Maserati,430,123,4,13.6,51406,2,2
+2011,Volkswagen,GTI,132,4,14.1,35016,2,1
+2019,Toyota,Prius Plug-in,119,4,12.1,50786,1,1
+2010,Oldsmobile,98,132,4,14.0,53634,0,1
+2017,Subaru,Impreza,135,4,13.9,34708,2,2
+2016,Hummer,H1,119,4,12.8,59044,0,1
+2014,Ford,Crown Victoria,125,4,12.8,54330,1,3
+2017,Eagle,Talon,132,4,13.4,64431,0,1
+2012,Kia,Carens,119,4,14.4,69756,1,3
+2019,Toyota,Camry,112,4,13.0,39081,2,1
+2013,Honda,Prelude,124,4,13.8,58808,0,1
+2013,Acura,RL,110,4,14.3,63085,3,2
+2016,Audi,90,117,4,14.4,31343,3,2
+2010,Pontiac,Firebird,119,4,13.4,31433,2,2
+2012,Pontiac,6000,114,4,11.9,31443,0,3
+2010,Toyota,RAV4,119,4,14.2,60391,0,2
+2013,Infiniti,FX,130,4,11.7,52596,1,1
+2014,Dodge,Ram Van 1500,111,4,14.3,44755,1,1
+2014,Kia,Soul,134,4,13.5,44221,1,1
+2010,Toyota,Highlander,129,4,14.1,42216,2,3
+2011,Ford,F-Series,110,4,14.1,44891,3,3
+2015,Honda,Accord,120,4,14.1,57473,0,1
+2015,Audi,80,128,4,12.9,38208,0,2
+2015,Mazda,Mazdaspeed6,120,4,13.4,53568,3,2
+2014,Chevrolet,Silverado 1500,131,4,12.5,32024,3,1
+2011,Toyota,Yaris,122,4,14.1,30899,0,1
+2018,Lincoln,Navigator,128,4,11.9,61250,0,1
+2018,Suzuki,Grand Vitara,129,4,11.7,40513,3,1
+2013,Oldsmobile,Silhouette,115,4,12.3,38068,0,3
+2019,Subaru,Tribeca,124,4,12.5,32257,1,3
+2013,Pontiac,Grand Prix,117,4,13.3,49006,3,1
+2017,Mitsubishi,Eclipse,114,4,12.3,62298,2,3
+2018,Toyota,Celica,134,4,12.6,46124,1,3
+2011,Chevrolet,Impala,128,4,11.6,52619,2,2
+2011,GMC,Savana 1500,126,4,13.1,33494,3,3
+2015,BMW,M3,123,4,13.8,39075,1,2
+2017,Isuzu,Rodeo,112,4,12.6,40457,3,2
+2019,Isuzu,Amigo,121,4,11.7,61389,3,2
+2011,Ford,Expedition EL,129,4,13.6,57778,3,1
+2014,Volkswagen,Jetta,117,4,13.5,40675,2,1
+2010,Ford,F-Series,135,4,13.7,44231,1,2
+2018,Honda,CR-X,128,4,13.2,50735,1,2
+2010,Oldsmobile,Silhouette,134,4,12.0,64087,2,1
+2017,Chrysler,LeBaron,132,4,12.4,68359,2,1
+2014,Hummer,H2 SUT,119,4,13.0,62612,0,3
+2013,Alfa Romeo,164,132,4,13.0,41203,1,3
+2012,Porsche,911,115,4,13.8,32736,0,3
+2012,BMW,Z4 M,124,4,11.5,67040,3,2
+2019,Volvo,960,122,4,13.0,45686,1,1
+2018,Mercedes-Benz,S-Class,129,4,12.0,63878,1,2
+2014,Scion,tC,112,4,13.1,56269,3,2
+2013,Isuzu,i-350,123,4,14.5,35508,1,2
+2015,Chevrolet,Metro,121,4,11.8,58711,0,3
+2015,Chevrolet,Corvair,118,4,14.5,57945,3,1
+2011,Mitsubishi,Raider,131,4,13.8,56904,0,2
+2010,Buick,Reatta,130,4,13.7,41582,2,3
+2016,Volvo,850,114,4,12.5,39700,1,2
+2012,Jeep,Wrangler,135,4,12.8,69268,1,1
+2018,Mazda,CX-7,116,4,13.3,46742,0,1
+2014,Buick,Century,111,4,13.4,62054,0,2
+2019,Chevrolet,Cobalt,122,4,14.0,66175,1,3
+2018,Volkswagen,CC,119,4,13.3,32293,2,3
+2018,Oldsmobile,Cutlass Supreme,134,4,12.4,42326,1,3
+2013,Cadillac,Escalade ESV,128,4,13.1,62921,1,3
+2010,Buick,Regal,112,4,14.4,49984,1,3
+2016,Land Rover,Range Rover,125,4,12.2,30415,3,3
+2014,Cadillac,CTS-V,128,4,13.2,58477,2,3
+2018,GMC,Safari,129,4,14.2,32362,0,1
+2011,Mazda,MPV,131,4,14.0,37851,3,2
+2018,Volvo,C30,124,4,12.4,63312,1,3
+2017,Cadillac,Catera,124,4,12.8,49854,2,1
+2015,Chevrolet,Express 3500,116,4,13.6,51794,2,2
+2018,Maserati,GranTurismo,122,4,11.6,39566,2,3
+2012,Toyota,Celica,121,4,12.8,36424,3,3
+2015,Mazda,RX-7,120,4,14.1,33412,3,1
+2019,Dodge,Ram 2500,118,4,11.9,52030,3,2
+2018,Suzuki,Esteem,116,4,13.2,45997,3,3
+2017,Cadillac,Escalade ESV,130,4,13.9,68433,0,2
+2014,Porsche,968,131,4,12.3,68403,3,3
+2011,Volkswagen,CC,122,4,12.5,31720,0,2
+2019,Honda,Accord,120,4,12.0,36119,2,1
+2011,Lincoln,Town Car,130,4,13.8,55652,2,3
+2014,Lincoln,MKX,132,4,12.3,61342,2,2
+2013,Mercedes-Benz,500SL,124,4,12.2,57282,2,2
+2010,Toyota,Sequoia,125,4,12.6,43125,0,1
+2015,Cadillac,SRX,131,4,11.5,37126,3,3
+2015,Chevrolet,Corvette,123,4,13.7,53204,1,1
+2013,Mercury,Grand Marquis,133,4,14.4,55854,2,1
+2011,Toyota,Camry Hybrid,129,4,13.2,59596,0,2
+2014,Mitsubishi,Challenger,121,4,12.9,34110,2,2
+2015,GMC,Yukon,126,4,11.5,60638,3,3
+2014,Porsche,Boxster,125,4,13.8,65673,0,2
+2013,GMC,Vandura 3500,118,4,12.3,59547,0,1
+2010,Maybach,57,125,4,11.7,34785,2,2
+2019,Ford,Escort,118,4,13.7,62006,2,3
+2011,Volvo,S40,111,4,13.3,36976,3,1
+2017,Toyota,Avalon,127,4,12.0,56452,3,3
+2011,GMC,Sierra 2500,112,4,12.6,65298,0,3
+2013,Saab,9-5,119,4,12.8,48902,0,1
+2012,Jaguar,XJ Series,129,4,12.4,57842,3,3
+2016,Dodge,Daytona,121,4,13.5,60795,3,3
+2010,GMC,Yukon,115,4,13.0,61095,0,3
+2017,Audi,RS 4,130,4,13.8,44933,0,2
+2018,Toyota,Tercel,129,4,13.0,46117,1,2
+2013,Plymouth,Acclaim,132,4,12.0,37959,3,1
+2017,Chrysler,Cirrus,134,4,12.2,68224,0,3
+2019,Mazda,GLC,115,4,13.4,43287,2,3
+2010,Ford,Expedition,128,4,13.8,45333,0,2
+2015,Pontiac,Grand Prix,123,4,14.5,68843,0,2
+2017,Audi,A8,116,4,13.5,38884,0,1
+2015,Chevrolet,APV,125,4,13.0,40351,1,1
+2015,Chevrolet,Monte Carlo,131,4,12.0,41529,2,3
+2016,Chrysler,Sebring,119,4,12.2,43411,0,2
+2011,Lexus,LS,122,4,12.2,51756,3,1
+2014,Mitsubishi,Lancer,126,4,14.2,54981,2,2
+2012,Mercury,Topaz,130,4,12.0,45327,3,1
+2012,Chevrolet,Malibu,126,4,11.5,41225,2,3
+2017,Ford,Thunderbird,130,4,12.0,65455,3,2
+2017,Chevrolet,Uplander,132,4,12.6,56282,2,3
+2013,Ford,Crown Victoria,122,4,12.2,32909,1,3
+2012,Dodge,Magnum,115,4,11.6,50758,0,2
+2015,Hummer,H1,130,4,12.2,55586,0,3
+2012,Hyundai,Accent,129,4,14.2,39467,0,1
+2011,BMW,X5,120,4,13.1,68560,0,1
+2014,Ford,F250,122,4,11.8,39305,0,1
+2011,Mercedes-Benz,G-Class,117,4,13.4,37698,0,1
+2018,Cadillac,Escalade ESV,122,4,13.4,45740,1,2
+2015,Mercury,Capri,114,4,12.3,45767,3,2
+2013,Subaru,Legacy,111,4,12.1,67161,3,1
+2013,Hyundai,Genesis,131,4,13.6,59567,3,2
+2013,Dodge,Intrepid,124,4,12.5,41637,3,2
+2013,Toyota,Previa,117,4,11.6,46566,3,2
+2010,Buick,LeSabre,130,4,12.3,44033,2,2
+2010,Suzuki,Grand Vitara,128,4,12.9,47692,3,1
+2016,Oldsmobile,Bravada,127,4,13.7,46644,1,2
+2011,Chevrolet,Aveo,131,4,12.1,45913,2,2
+2017,Ford,Crown Victoria,127,4,13.1,36227,3,2
+2014,Porsche,Cayman,130,4,13.7,65381,1,3
+2014,Mercedes-Benz,SL-Class,117,4,13.2,36507,2,1
+2018,Chevrolet,Suburban 2500,116,4,12.4,50159,3,1
+2014,Jaguar,XK,121,4,12.3,48188,3,1
+2016,Mercedes-Benz,S-Class,129,4,11.5,49610,2,1
+2010,Mazda,MX-6,117,4,11.6,63452,0,1
+2010,Ford,F150,121,4,13.6,40730,0,1
+2017,GMC,Sierra 2500,128,4,11.7,47488,2,1
+2017,Mercury,Sable,116,4,12.0,40432,2,3
+2012,Dodge,Dakota,120,4,14.2,34086,0,3
+2014,Dodge,Stratus,115,4,12.5,61316,0,2
+2017,Ford,Explorer Sport Trac,127,4,12.8,67241,2,3
+2013,Mercedes-Benz,SLR McLaren,126,4,12.1,58891,3,2
+2013,Volvo,C30,114,4,12.2,57208,0,2
+2018,Audi,A4,125,4,13.3,55018,2,1
+2016,Honda,CR-V,125,4,14.3,59535,1,1
+2017,Ford,Contour,126,4,12.2,35185,0,3
+2016,Audi,riolet,116,4,14.1,68060,1,2
+2017,Audi,A4,115,4,11.9,38966,0,2
+2012,Ford,Tempo,127,4,12.9,40625,3,2
+2018,Ford,Tempo,118,4,14.0,31381,2,1
+2011,Jeep,Wrangler,116,4,14.1,59974,2,3
+2015,Bentley,Continental Flying Spur,130,4,12.1,61400,2,1
+2010,Honda,S2000,135,4,12.2,56590,3,3
+2010,Volkswagen,Jetta,120,4,13.9,39312,0,2
+2019,Oldsmobile,Bravada,127,4,13.4,32714,0,1
+2012,Mitsubishi,Outlander,135,4,14.5,57179,1,3
+2018,Toyota,MR2,125,4,14.1,68298,3,3
+2016,Ford,F150,128,4,13.3,32979,3,1
+2015,Chevrolet,Aveo,127,4,12.2,66048,3,1
+2012,Ferrari,599 GTB Fiorano,119,4,13.2,60579,2,1
+2019,Mitsubishi,Galant,111,4,12.3,66366,3,3
+2011,Dodge,Intrepid,125,4,11.7,60220,3,2
+2013,Jeep,Wrangler,121,4,14.3,65654,0,3
+2015,Dodge,Dakota,115,4,11.9,36525,3,1
+2012,MINI,Cooper,120,4,13.6,31655,0,3
+2014,Chevrolet,Impala,111,4,11.7,68427,1,2
+2017,Hummer,H1,131,4,11.7,58255,1,3
+2018,Mazda,Miata MX-5,122,4,12.1,51936,2,2
+2011,Nissan,Frontier,114,4,12.1,57224,1,2
+2015,Volvo,XC60,134,4,12.6,30497,0,3
+2010,Volkswagen,Passat,125,4,11.6,60303,2,2
+2018,Chrysler,LHS,110,4,14.0,60943,3,1
+2017,Infiniti,M,112,4,13.3,63446,1,2
+2012,Pontiac,Chevette,113,4,12.1,49377,0,3
+2019,Ford,F350,128,4,11.7,36194,2,1
+2018,Jeep,Cherokee,134,4,13.7,69065,2,3
+2016,Acura,SLX,110,4,14.3,44682,1,3
+2014,Chevrolet,Camaro,135,4,13.4,35616,3,3
+2016,BMW,X6 M,122,4,12.8,45749,2,1
+2012,Jeep,Commander,115,4,13.7,45501,0,2
+2018,Mercedes-Benz,M-Class,127,4,12.3,66964,2,1
+2012,Chevrolet,Camaro,135,4,12.9,50350,0,3
+2010,Toyota,Supra,115,4,14.0,34010,2,1
+2019,Mitsubishi,Galant,131,4,12.6,65471,3,1
+2013,Mitsubishi,Montero Sport,121,4,12.6,39132,0,2
+2015,Mitsubishi,Eclipse,110,4,12.3,56151,0,2
+2016,Land Rover,LR4,113,4,13.1,41665,1,3
+2017,Honda,Prelude,113,4,14.1,39886,0,3
+2019,Audi,A4,124,4,14.4,56104,1,2
+2013,Dodge,Ram 2500 Club,130,4,11.7,33716,0,1
+2012,Mitsubishi,Montero,133,4,12.2,35686,3,1
+2010,Toyota,Tundra,124,4,11.9,42613,2,1
+2017,Cadillac,XLR,132,4,12.5,63760,3,2
+2013,Pontiac,Montana,132,4,14.1,40913,0,3
+2015,Audi,A6,120,4,14.2,61066,3,3
+2012,Mitsubishi,Galant,112,4,12.0,54429,0,1
+2017,Mazda,MX-5,121,4,13.6,51082,2,3
+2018,Bentley,Continental Flying Spur,130,4,13.8,64074,0,2
+2018,Mazda,626,118,4,13.5,47828,1,2
+2013,Mercedes-Benz,SL-Class,119,4,13.5,63721,1,1
+2019,Cadillac,STS,115,4,12.8,45288,2,2
+2016,Audi,90,112,4,13.4,32919,3,1
+2015,Pontiac,Grand Prix,133,4,14.3,53105,1,3
+2018,Mercury,Mariner,110,4,13.9,62129,1,2
+2018,Mitsubishi,Montero,126,4,12.5,49975,0,3
+2018,Audi,A8,110,4,12.9,59167,1,3
+2011,BMW,530,115,4,14.4,69817,1,2
+2015,Mazda,MX-6,134,4,14.0,62270,3,3
+2016,Mitsubishi,Starion,125,4,11.5,45841,2,1
+2018,Ford,Explorer Sport Trac,116,4,13.6,69132,3,2
+2017,Porsche,Cayman,127,4,12.7,31877,1,1
+2018,Audi,A6,123,4,13.2,39822,2,3
+2014,Nissan,Pathfinder,112,4,13.9,63012,2,2
+2010,Chevrolet,Silverado,128,4,12.6,60465,1,3
+2013,Mazda,MX-5,134,4,12.9,46842,3,1
+2018,Lexus,SC,123,4,13.7,54204,0,1
+2011,Infiniti,G,114,4,13.4,39144,0,3
+2017,Kia,Sedona,121,4,12.5,45070,1,3
