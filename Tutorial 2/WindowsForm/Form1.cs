@@ -16,5 +16,10 @@ namespace WindowsForm
         {
             InitializeComponent();
         }
+
+        private void buttonLoad_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -301,6 +301,7 @@
             this.buttonLoad.TabIndex = 15;
             this.buttonLoad.Text = "Load";
             this.buttonLoad.UseVisualStyleBackColor = true;
+            this.buttonLoad.Click += new System.EventHandler(this.buttonLoad_Click);
             // 
             // buttonNext
             // 
