@@ -69,8 +69,27 @@ called exam.txt. The below diagrams illustrates the operations that that must pe
             foreach (var item in studentRecord.Students)
             {
                 resultCode = item.finalMark >= 50 ? "pass" : "fail"; 
-                textBoxDisplay.Text += $"{item.studentNumber}\t{item.finalMark}\t{resultCode} {Environment.NewLine}";
+                textBoxDisplay.Text += $"{item.studentNumber}\t\t{item.finalMark}\t\t{resultCode} {Environment.NewLine}";
             }
+        }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            textBoxDisplay.Clear();
+            textBoxAssignment.Clear();
+            textBoxTest.Clear();
+            textBoxExam.Clear();
+            textBoxFinal.Clear();
+        }
+
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        private void buttonWrite_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

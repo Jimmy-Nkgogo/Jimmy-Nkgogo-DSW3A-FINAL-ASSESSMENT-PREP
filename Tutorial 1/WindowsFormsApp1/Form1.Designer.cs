@@ -235,6 +235,7 @@
             this.buttonWrite.TabIndex = 19;
             this.buttonWrite.Text = "Write";
             this.buttonWrite.UseVisualStyleBackColor = true;
+            this.buttonWrite.Click += new System.EventHandler(this.buttonWrite_Click);
             // 
             // buttonClear
             // 
@@ -244,6 +245,7 @@
             this.buttonClear.TabIndex = 20;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // buttonExit
             // 
@@ -253,6 +255,7 @@
             this.buttonExit.TabIndex = 21;
             this.buttonExit.Text = "Exit";
             this.buttonExit.UseVisualStyleBackColor = true;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // Form1
             // 
