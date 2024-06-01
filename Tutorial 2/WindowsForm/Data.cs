@@ -35,6 +35,11 @@ namespace WindowsForm
             get { return _email; }
             set { _email = value; }
         }
+        public string Gender
+        {
+            get { return _gender; }
+            set { _gender = value; }
+        }
         public string IP
         {
             get { return _ip; }
