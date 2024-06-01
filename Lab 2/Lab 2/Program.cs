@@ -10,7 +10,31 @@ namespace Lab_2
     {
         static void Main(string[] args)
         {
-
+            int option = Options();
+            while (option != 0)
+            {
+                if (option == 1)
+                {
+                    Console.WriteLine("Display all data");
+                }
+                else if (option == 2)
+                {
+                    Console.WriteLine("Given year");
+                }
+                else if (option == 3)
+                {
+                    Console.WriteLine("Brand");
+                }
+                else if (option == 0)
+                {
+                    Console.WriteLine("Exit");
+                }
+                else
+                {
+                    Console.WriteLine("invalid option");
+                }
+                option = Options();
+            }
         }
         static int Options()
         {
