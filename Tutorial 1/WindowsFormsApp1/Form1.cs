@@ -76,6 +76,7 @@ called exam.txt. The below diagrams illustrates the operations that that must pe
         private void buttonClear_Click(object sender, EventArgs e)
         {
             textBoxDisplay.Clear();
+            textBoxStudentNumber.Clear();
             textBoxAssignment.Clear();
             textBoxTest.Clear();
             textBoxExam.Clear();
@@ -89,7 +90,14 @@ called exam.txt. The below diagrams illustrates the operations that that must pe
 
         private void buttonWrite_Click(object sender, EventArgs e)
         {
-
+            try
+            {
+                studentRecord.WriteToFile();
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

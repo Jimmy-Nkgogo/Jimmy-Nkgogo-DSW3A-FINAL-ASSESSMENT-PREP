@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\tutorial 1\\windowsformsapp1\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|solutionrelative:studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE99FE4-A207-4606-A1E7-42D4610F09AA}|WindowsFormsApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "StudentRecord.cs",
               "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\StudentRecord.cs",
               "RelativeToolTip": "StudentRecord.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:54:10.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
@@ -60,21 +60,21 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCAAAAANAAAA",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAqwGMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:32:51.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Tutorial 1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:14:16.335Z",
               "EditorCaption": " [Design]"

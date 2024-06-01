@@ -18,6 +18,17 @@ namespace WindowsFormsApp1
         {
             Students.Add(student);
         }
-        
+        public void WriteToFile()
+        {
+            using (StreamWriter writer = new StreamWriter(@"exam.txt", true))
+            {
+                string resultCode = "";
+                foreach (var item in Students)
+                {
+                    resultCode = item.finalMark >= 50 ? "pass" : "fail";
+                    writer.WriteLine($"{item.studentNumber}\t\t{item.finalMark}\t\t{resultCode}");
+                }
+            }
+        }
     }
 }
