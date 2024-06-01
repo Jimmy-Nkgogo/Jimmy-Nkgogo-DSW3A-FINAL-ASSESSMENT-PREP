@@ -24,11 +24,9 @@ respectively. The captured user input and the computed final mark is stores in a
 such as an array of objects. The application must also save all students’ data in a “TXT” file
 called exam.txt. The below diagrams illustrates the operations that that must performed 
          */
-        private string studentNumber;
-        private double assignmentMark;
-        private double testMark;
-        private double examMark;
-        private double finalMark;
+
+        Student student;
+        StudentRecord studentRecord = new StudentRecord();
         private void buttonCompute_Click(object sender, EventArgs e)
         {
             if (String.IsNullOrWhiteSpace(textBoxStudentNumber.Text) && String.IsNullOrWhiteSpace(textBoxAssignment.Text) && String.IsNullOrWhiteSpace(textBoxTest.Text) && String.IsNullOrWhiteSpace(textBoxExam.Text))
@@ -37,12 +35,14 @@ called exam.txt. The below diagrams illustrates the operations that that must pe
             }
             else
             {
-                studentNumber = textBoxStudentNumber.Text;
-                assignmentMark = Convert.ToDouble(textBoxAssignment.Text);
-                testMark = Convert.ToDouble(textBoxTest.Text);
-                examMark = Convert.ToDouble(textBoxExam.Text);
-                finalMark = Math.Round((assignmentMark * 0.2) + (testMark * 0.3) + (examMark * 0.5),2);
-                textBoxFinal.Text = finalMark.ToString();
+                student = new Student();
+                student.studentNumber = textBoxStudentNumber.Text;
+                student.assignmentMark = Convert.ToDouble(textBoxAssignment.Text);
+                student.testMark = Convert.ToDouble(textBoxTest.Text);
+                student.examMark = Convert.ToDouble(textBoxExam.Text);
+                student.finalMark = Math.Round((student.assignmentMark * 0.2) + (student.testMark * 0.3) + (student.examMark * 0.5),2);
+                
+                textBoxFinal.Text = student.finalMark.ToString();
             }
         }
 
@@ -54,6 +54,23 @@ called exam.txt. The below diagrams illustrates the operations that that must pe
         private void textBoxStudentNumber_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void buttonAdd_Click(object sender, EventArgs e)
+        {
+            studentRecord.AddStudent(student);
+
+        }
+
+        private void buttonDisplay_Click(object sender, EventArgs e)
+        {
+            textBoxDisplay.Text = "";
+            string resultCode = "";
+            foreach (var item in studentRecord.Students)
+            {
+                resultCode = item.finalMark >= 50 ? "pass" : "fail"; 
+                textBoxDisplay.Text += $"{item.studentNumber}\t{item.finalMark}\t{resultCode} {Environment.NewLine}";
+            }
         }
     }
 }

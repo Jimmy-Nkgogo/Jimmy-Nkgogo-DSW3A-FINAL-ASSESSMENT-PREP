@@ -215,6 +215,7 @@
             this.buttonAdd.TabIndex = 17;
             this.buttonAdd.Text = "Add";
             this.buttonAdd.UseVisualStyleBackColor = true;
+            this.buttonAdd.Click += new System.EventHandler(this.buttonAdd_Click);
             // 
             // buttonDisplay
             // 
@@ -224,6 +225,7 @@
             this.buttonDisplay.TabIndex = 18;
             this.buttonDisplay.Text = "Display";
             this.buttonDisplay.UseVisualStyleBackColor = true;
+            this.buttonDisplay.Click += new System.EventHandler(this.buttonDisplay_Click);
             // 
             // buttonWrite
             // 
