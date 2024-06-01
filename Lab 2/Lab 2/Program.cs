@@ -12,7 +12,7 @@ namespace Lab_2
         static void Main(string[] args)
         {
             int option = Options();
-            while (option != 0)
+            while (true)
             {
                 if (option == 1)
                 {
@@ -48,11 +48,26 @@ namespace Lab_2
                 }
                 else if (option == 3)
                 {
-                    Console.WriteLine("Brand");
+                    try
+                    {
+                        Console.Write("Enter the car brand");
+                        string userInput = Console.ReadLine();
+                        string[] lines = DisplayBrandData(userInput);
+                        foreach (var line in lines)
+                        {
+                            Console.WriteLine(line);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+
                 }
                 else if (option == 0)
                 {
-                    Console.WriteLine("Exit");
+                    Console.WriteLine("Good ~ bye");
+                    break;
                 }
                 else
                 {
@@ -96,6 +111,20 @@ namespace Lab_2
                 }
             }
             return yearData.ToArray();
+        }
+        static string[] DisplayBrandData(string carBrand)
+        {
+            string[] lines = DisplayAllData();
+            List<string> brandData = new List<string>();
+            foreach (var line in lines)
+            {
+                string[] arrayLine = line.Split(',');
+                if (arrayLine[1].ToLower() == carBrand.ToLower())
+                {
+                    brandData.Add(line);
+                }
+            }
+            return brandData.ToArray();
         }
     }
 }
