@@ -53,6 +53,7 @@ namespace Presentation_Layer
             try
             {
                 businessClass.WriteToFile();
+                MessageBox.Show("Written to file...");
             }
             catch(Exception ex)
             {
