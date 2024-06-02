@@ -3,14 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Presentation_Layer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E25835C-2ABB-4E1B-B549-F32DC1E06616}|..\\Data_Layer\\Data_Layer.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 3\\data_layer\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3568BF8-FD01-4303-B9C3-B967C40477EE}|Presentation_Layer.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 3\\presentation_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3568BF8-FD01-4303-B9C3-B967C40477EE}|Presentation_Layer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3568BF8-FD01-4303-B9C3-B967C40477EE}|Presentation_Layer.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 3\\presentation_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3568BF8-FD01-4303-B9C3-B967C40477EE}|Presentation_Layer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AE31882-5315-4FCD-81F3-0731D9D91FB2}|..\\Business_Layer\\Business_Layer.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 3\\business_layer\\businessclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3568BF8-FD01-4303-B9C3-B967C40477EE}|Presentation_Layer.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 3\\presentation_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B3568BF8-FD01-4303-B9C3-B967C40477EE}|Presentation_Layer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9E25835C-2ABB-4E1B-B549-F32DC1E06616}|..\\Data_Layer\\Data_Layer.csproj|c:\\users\\jimmy\\source\\repos\\jimmy-nkgogo-dsw3a-final-assessment-prep\\lab 3\\data_layer\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,32 +29,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Presentation_Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Presentation_Layer\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:03:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DataLayer.cs",
               "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Data_Layer\\DataLayer.cs",
               "RelativeDocumentMoniker": "..\\Data_Layer\\DataLayer.cs",
               "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Data_Layer\\DataLayer.cs",
               "RelativeToolTip": "..\\Data_Layer\\DataLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T18:26:30.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BusinessClass.cs",
               "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Business_Layer\\BusinessClass.cs",
               "RelativeDocumentMoniker": "..\\Business_Layer\\BusinessClass.cs",
               "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Business_Layer\\BusinessClass.cs",
               "RelativeToolTip": "..\\Business_Layer\\BusinessClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwFcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T18:25:57.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\\Lab 3\\Presentation_Layer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

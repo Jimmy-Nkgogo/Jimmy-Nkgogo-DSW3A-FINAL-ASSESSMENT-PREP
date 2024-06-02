@@ -105,6 +105,7 @@
             this.buttonSave.TabIndex = 7;
             this.buttonSave.Text = "Save";
             this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // textBoxName
             // 
@@ -132,6 +133,7 @@
             this.buttonRead.TabIndex = 10;
             this.buttonRead.Text = "Read";
             this.buttonRead.UseVisualStyleBackColor = true;
+            this.buttonRead.Click += new System.EventHandler(this.buttonRead_Click);
             // 
             // textBoxSurname
             // 

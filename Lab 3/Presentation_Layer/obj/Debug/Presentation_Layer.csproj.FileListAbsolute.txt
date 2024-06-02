@@ -11,3 +11,5 @@ C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Prese
 C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presenta.B08D3F22.Up2Date
 C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.exe
 C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Data_Layer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Data_Layer.pdb

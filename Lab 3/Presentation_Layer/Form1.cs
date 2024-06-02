@@ -47,5 +47,29 @@ namespace Presentation_Layer
             labelAge.Text = "";
             labelEmail.Text = "";
         }
+
+        private void buttonSave_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                businessClass.WriteToFile();
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void buttonRead_Click(object sender, EventArgs e)
+        {
+            string[] lines = businessClass.ReadFile();
+            textBoxDisplay.Text = "";
+            string result = "";
+            foreach (var line in lines)
+            {
+                result += line + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
+        }
     }
 }

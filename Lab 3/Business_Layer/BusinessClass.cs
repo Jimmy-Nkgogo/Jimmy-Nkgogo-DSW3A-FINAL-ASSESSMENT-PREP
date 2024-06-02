@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Data_Layer;
 
 namespace Business_Layer
 {
@@ -13,6 +14,7 @@ namespace Business_Layer
         private string _email;
         private int _age;
 
+        DataLayer dataClass = new DataLayer();
         public string Name
         {
             get { return _name; }
@@ -77,6 +79,13 @@ namespace Business_Layer
 
             return age;
         }
-
+        public void WriteToFile()
+        {
+            dataClass.WriteToFile(Name, Surname, Email, Age);
+        }
+        public string[] ReadFile()
+        {
+            return dataClass.ReadFile();
+        }
     }
 }

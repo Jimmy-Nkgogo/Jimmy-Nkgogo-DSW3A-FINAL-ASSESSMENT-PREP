@@ -10,5 +10,18 @@ namespace Data_Layer
 {
     public class DataLayer
     {
+
+        public void WriteToFile(string name, string surname, string email, int age)
+        {
+
+            using (StreamWriter writer = new StreamWriter("Staff.txt", true))
+            {
+                writer.WriteLine($"{name}\t{surname}\t{email}\t{age}");
+            }
+        }
+        public string[] ReadFile()
+        {
+            return File.ReadAllLines("Staff.txt");
+        }
     }
 }
