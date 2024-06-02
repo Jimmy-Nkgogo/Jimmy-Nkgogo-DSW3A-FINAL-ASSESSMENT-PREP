@@ -1,0 +1,13 @@
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Presentation_Layer.exe.config
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Presentation_Layer.exe
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Presentation_Layer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Business_Layer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.Form1.resources
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presenta.B08D3F22.Up2Date
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.exe
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Presentation_Layer\obj\Debug\Presentation_Layer.pdb

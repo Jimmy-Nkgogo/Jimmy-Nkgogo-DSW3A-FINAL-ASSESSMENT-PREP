@@ -1,0 +1,6 @@
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Data_Layer\bin\Debug\Data_Layer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Data_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Data_Layer\obj\Debug\Data_Layer.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Data_Layer\obj\Debug\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Data_Layer\obj\Debug\Data_Layer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\Lab 3\Data_Layer\obj\Debug\Data_Layer.pdb
