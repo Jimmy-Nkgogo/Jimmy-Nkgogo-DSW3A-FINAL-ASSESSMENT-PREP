@@ -32,5 +32,20 @@ namespace Presentation_Layer
                 labelAge.Text = businessClass.GetAge(textBoxIdNumber.Text).ToString();
             }
         }
+
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            textBoxIdNumber.Clear();
+            textBoxName.Clear();
+            textBoxSurname.Clear();
+            textBoxDisplay.Clear();
+            labelAge.Text = "";
+            labelEmail.Text = "";
+        }
     }
 }

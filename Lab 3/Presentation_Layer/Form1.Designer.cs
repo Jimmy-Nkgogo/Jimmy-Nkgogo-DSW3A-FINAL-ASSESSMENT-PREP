@@ -159,6 +159,7 @@
             this.buttonClear.TabIndex = 13;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // textBoxDisplay
             // 
@@ -186,6 +187,7 @@
             this.buttonExit.TabIndex = 16;
             this.buttonExit.Text = "Exit";
             this.buttonExit.UseVisualStyleBackColor = true;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // label6
             // 
