@@ -48,5 +48,27 @@ namespace Sick_Test
         {
             Console.WriteLine("\n" + studentNumber + " " + name + " " + surname + $"{courseCode} {test} {assignment}");
         }
+        public double calcYearMark()
+        {
+            double yearMark = 0;
+            yearMark = Math.Round((assignment * 0.45) + (test * 0.55), 2);
+            return yearMark;
+        }
+        public double calcFinalMark()
+        {
+            double yearMark = calcYearMark();
+            Random random = new Random();
+            int exarmMark = random.Next(15, 86);
+            double finalMark = 0;
+            if (yearMark > 0)
+            {
+                finalMark = Math.Round((exarmMark + yearMark) / 2, 2);
+            }
+            else
+            {
+                return -1;
+            }
+            return finalMark;
+        }
     }
 }
