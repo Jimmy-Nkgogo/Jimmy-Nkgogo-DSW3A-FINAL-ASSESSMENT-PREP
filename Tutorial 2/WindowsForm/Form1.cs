@@ -92,12 +92,72 @@ namespace WindowsForm
 
         private void radioButtonCom_CheckedChanged(object sender, EventArgs e)
         {
-            dataArray = manager.determineDomain(".com");
+            dataArray = manager.determineDomain(radioButtonCom.Text);
             textBoxDisplay.Clear();
             string result = "";
             foreach (var data in dataArray)
             {
-                result += $"{data.Number,-10}\t{data.Name,-15}{data.Surname,-20}{data.Email,-30}{data.Gender,-40}{data.Gender,-50} {data.IP}" + Environment.NewLine;
+                result += $"{data.Number,-10}\t{data.Name,-20}\t{data.Surname,-25}\t{data.Email,-25}\t{data.Gender,-25}\t{data.IP}" + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
+        }
+
+        private void radioButtonGov_CheckedChanged(object sender, EventArgs e)
+        {
+            dataArray = manager.determineDomain(radioButtonGov.Text);
+            textBoxDisplay.Clear();
+            string result = "";
+            foreach (var data in dataArray)
+            {
+                result += $"{data.Number,-10}\t{data.Name,-20}\t{data.Surname,-25}\t{data.Email,-25}\t{data.Gender,-25}\t{data.IP}" + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
+        }
+
+        private void radioButtonEdu_CheckedChanged(object sender, EventArgs e)
+        {
+            dataArray = manager.determineDomain(radioButtonEdu.Text);
+            textBoxDisplay.Clear();
+            string result = "";
+            foreach (var data in dataArray)
+            {
+                result += $"{data.Number,-10}\t{data.Name,-20}\t{data.Surname,-25}\t{data.Email,-25}\t{data.Gender,-25}\t{data.IP}" + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
+        }
+
+        private void radioButtonRu_CheckedChanged(object sender, EventArgs e)
+        {
+            dataArray = manager.determineDomain(radioButtonRu.Text);
+            textBoxDisplay.Clear();
+            string result = "";
+            foreach (var data in dataArray)
+            {
+                result += $"{data.Number,-10}\t{data.Name,-20}\t{data.Surname,-25}\t{data.Email,-25}\t{data.Gender,-25}\t{data.IP}" + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
+        }
+
+        private void radioButtonUk_CheckedChanged(object sender, EventArgs e)
+        {
+            dataArray = manager.determineDomain(radioButtonUk.Text);
+            textBoxDisplay.Clear();
+            string result = "";
+            foreach (var data in dataArray)
+            {
+                result += $"{data.Number,-10}\t{data.Name,-20}\t{data.Surname,-25}\t{data.Email,-25}\t{data.Gender,-25}\t{data.IP}" + Environment.NewLine;
+            }
+            textBoxDisplay.Text = result;
+        }
+
+        private void radioButtonJp_CheckedChanged(object sender, EventArgs e)
+        {
+            dataArray = manager.determineDomain(radioButtonJp.Text);
+            textBoxDisplay.Clear();
+            string result = "";
+            foreach (var data in dataArray)
+            {
+                result += $"{data.Number,-10}\t{data.Name,-20}\t{data.Surname,-25}\t{data.Email,-25}\t{data.Gender,-25}\t{data.IP}" + Environment.NewLine;
             }
             textBoxDisplay.Text = result;
         }
