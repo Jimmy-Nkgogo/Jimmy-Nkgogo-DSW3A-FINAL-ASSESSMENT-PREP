@@ -1,0 +1,7 @@
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\bin\Debug\Inheritance Questions.exe.config
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\bin\Debug\Inheritance Questions.exe
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\bin\Debug\Inheritance Questions.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\obj\Debug\Inheritance Questions.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\obj\Debug\Inheritance Questions.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\obj\Debug\Inheritance Questions.exe
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Inheritance Questions\obj\Debug\Inheritance Questions.pdb
