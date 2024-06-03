@@ -9,6 +9,26 @@ namespace BusinessLayer
 {
     public class businessClass
     {
+        private string _email;
+        private bool _password;
+        private string _phoneNumber;
+
+        public string Email
+        {
+            get { return _email; }
+            set { _email = value; }
+        }
+        public bool Password
+        {
+            get { return _password; }
+            set { _password = value; }
+        }
+        public string PhoneNumber
+        {
+            get { return _phoneNumber; }
+            set { _phoneNumber = value; }
+        }
+
         public bool ValidatePassword(string password)
         {
             int upperCaseCount = password.Count(char.IsUpper);
@@ -25,6 +45,7 @@ namespace BusinessLayer
 
             return true;
         }
+
         public string FormatNumber(string number)
         {
             string firstThree = number.Substring(0, 3);
@@ -34,10 +55,17 @@ namespace BusinessLayer
             string formattedNumber = $"({firstThree}) {secondThree}-{last}";
             return formattedNumber;
         }
+
         public string generateEmail(string name,string surname)
         {
             return $"{name[0]}{surname}@uj.ac.za".ToLower();
         }
+
+        public void writeToFile()
+        {
+
+        }
+
         public int generateAge(string userId)
         {
             string id = userId;
