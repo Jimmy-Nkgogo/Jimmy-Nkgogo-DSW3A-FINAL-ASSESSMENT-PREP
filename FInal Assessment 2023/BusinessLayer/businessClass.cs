@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DataLayer;
 
 namespace BusinessLayer
 {
@@ -13,6 +14,7 @@ namespace BusinessLayer
         private bool _password;
         private string _phoneNumber;
 
+        dataClass data = new dataClass();
         public string Email
         {
             get { return _email; }
@@ -42,7 +44,7 @@ namespace BusinessLayer
             int digitCount = password.Count(char.IsDigit);
             if (digitCount < 2)
                 return false;
-
+            Password = true;
             return true;
         }
 
@@ -53,17 +55,33 @@ namespace BusinessLayer
             string last = number.Substring(5);
 
             string formattedNumber = $"({firstThree}) {secondThree}-{last}";
+            PhoneNumber = formattedNumber;
             return formattedNumber;
         }
 
         public string generateEmail(string name,string surname)
         {
-            return $"{name[0]}{surname}@uj.ac.za".ToLower();
+            Email = $"{name[0]}{surname}@uj.ac.za".ToLower();
+            return Email;
         }
 
         public void writeToFile()
         {
+            string passwordString;
+            if (Password)
+            {
+                passwordString = "True";
+            }
+            else
+            {
+                passwordString = "False";
+            }
+            data.writeToFile(Email, PhoneNumber, passwordString);
+        }
 
+        public string[] readFromFile()
+        {
+            return data.readFromFile();
         }
 
         public int generateAge(string userId)
