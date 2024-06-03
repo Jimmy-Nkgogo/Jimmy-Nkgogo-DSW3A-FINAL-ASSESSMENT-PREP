@@ -48,7 +48,36 @@ namespace Presentation_Layer
 
         private void buttonSave_Click(object sender, EventArgs e)
         {
+            try
+            {
+                business.writeToFile();
+                MessageBox.Show("Written to file....");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
 
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBoxName.Clear();
+            textBoxSurname.Clear();
+            textBoxPassword.Clear();
+            textBoxPhoneNumber.Clear();
+            labelEmailDisplay.Text = "";
+        }
+
+        private void buttonRead_Click(object sender, EventArgs e)
+        {
+            string[] lines = business.readFromFile();
+            string result = "";
+            foreach (var line in lines)
+            {
+                result += line + Environment.NewLine;
+            }
+            textBox1.Text = result;
         }
     }
 }

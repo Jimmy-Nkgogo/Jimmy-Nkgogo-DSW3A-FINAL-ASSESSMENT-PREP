@@ -118,6 +118,7 @@
             this.buttonRead.TabIndex = 9;
             this.buttonRead.Text = "Read";
             this.buttonRead.UseVisualStyleBackColor = true;
+            this.buttonRead.Click += new System.EventHandler(this.buttonRead_Click);
             // 
             // label4
             // 
@@ -136,6 +137,7 @@
             this.buttonClear.TabIndex = 12;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // textBoxPhoneNumber
             // 
