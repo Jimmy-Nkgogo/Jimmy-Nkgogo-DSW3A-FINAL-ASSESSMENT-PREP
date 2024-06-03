@@ -1,0 +1,15 @@
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\BusinessLayer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\DataLayer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\BusinessLayer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\bin\Debug\DataLayer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation_Layer.Form1.resources
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presenta.B0A29D85.Up2Date
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\Presentation Layer\obj\Debug\Presentation Layer.pdb

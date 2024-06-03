@@ -52,7 +52,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(208, 55);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(510, 39);
+            this.label1.Size = new System.Drawing.Size(492, 38);
             this.label1.TabIndex = 0;
             this.label1.Text = "Employee Registration System";
             // 
@@ -91,6 +91,7 @@
             this.buttonSave.TabIndex = 6;
             this.buttonSave.Text = "Save";
             this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // textBoxSurname
             // 

@@ -52,7 +52,7 @@ namespace BusinessLayer
         {
             string firstThree = number.Substring(0, 3);
             string secondThree = number.Substring(3, 3);
-            string last = number.Substring(5);
+            string last = number.Substring(6);
 
             string formattedNumber = $"({firstThree}) {secondThree}-{last}";
             PhoneNumber = formattedNumber;
@@ -61,7 +61,7 @@ namespace BusinessLayer
 
         public string generateEmail(string name,string surname)
         {
-            Email = $"{name[0]}{surname}@uj.ac.za".ToLower();
+            Email = $"{name[0]}{surname}@coders.ac.za".ToLower();
             return Email;
         }
 

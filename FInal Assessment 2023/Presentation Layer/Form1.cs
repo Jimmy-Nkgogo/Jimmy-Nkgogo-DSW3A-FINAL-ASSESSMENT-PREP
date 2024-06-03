@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BusinessLayer;
 
 namespace Presentation_Layer
 {
@@ -21,18 +22,33 @@ namespace Presentation_Layer
         {
 
         }
-
+        businessClass business;
         private void buttonValidate_Click(object sender, EventArgs e)
         {
+            business = new businessClass();
             if (String.IsNullOrWhiteSpace(textBoxName.Text) && String.IsNullOrWhiteSpace(textBoxSurname.Text) && String.IsNullOrWhiteSpace(textBoxPhoneNumber.Text) && String.IsNullOrWhiteSpace(textBoxPassword.Text))
             {
                 MessageBox.Show("Fill in all required textboxes");
             }
             else
             {
-                string password = textBoxPassword.Text;
+                labelEmailDisplay.Text = business.generateEmail(textBoxName.Text, textBoxSurname.Text);
+                textBoxPhoneNumber.Text = business.FormatNumber(textBoxPhoneNumber.Text);
                 
+                if (!business.ValidatePassword(textBoxPassword.Text))
+                {
+                    MessageBox.Show("Password is invalid");
+                }
+                else
+                {
+                    MessageBox.Show("Password is valid");
+                }
             }
+        }
+
+        private void buttonSave_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

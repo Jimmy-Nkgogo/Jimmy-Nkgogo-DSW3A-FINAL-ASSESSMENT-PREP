@@ -1,0 +1,9 @@
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Jimmy\source\repos\Jimmy-Nkgogo-DSW3A-FINAL-ASSESSMENT-PREP\FInal Assessment 2023\BusinessLayer\obj\Debug\BusinessLayer.pdb
